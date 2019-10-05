@@ -11,7 +11,7 @@
   mpld3.draw_figure = function(figid, spec) {
     var element = document.getElementById(figid);
     if (element === null) {
-      throw figid + " is not a valid id";
+      throw figid + " is not a valid id!";
     }
     var fig = new mpld3.Figure(figid, spec);
     mpld3.figures.push(fig);
