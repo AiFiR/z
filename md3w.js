@@ -38,7 +38,7 @@
     return output;
   };
   mpld3.generate_id = function(N, chars) {
-    console.warn("mpld3.generate_id is deprecated. " + "Use mpld3.generateId instead.");
+    console.warn("mpld3.generate_id is deprecated. " + "Use mpld3.generateId instead!");
     return mpld3_generateId(N, chars);
   };
   mpld3.generateId = mpld3_generateId;
