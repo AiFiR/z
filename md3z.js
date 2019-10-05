@@ -504,9 +504,26 @@
     this.pathcoords = new mpld3_Coordinates(this.props.pathcoordinates, this.ax);
     this.offsetcoords = new mpld3_Coordinates(this.props.offsetcoordinates, this.ax);
   }
+  function getTranslation(transform) {
+  // Create a dummy g for calculation purposes only. This will never
+  // be appended to the DOM and will be discarded once this function 
+  // returns.
+  var g = document.createElementNS("http://www.w3.org/2000/svg", "g");
+  
+  // Set the transform attribute to the provided string value.
+  g.setAttributeNS(null, "transform", transform);
+  
+  // consolidate the SVGTransformList containing all transformations
+  // to a single SVGTransform of type SVG_TRANSFORM_MATRIX and get
+  // its SVGMatrix. 
+  var matrix = g.transform.baseVal.consolidate().matrix;
+  
+  // As per definition values e and f are the ones for the translation.
+  return [matrix.e, matrix.f];
+  }
   mpld3_PathCollection.prototype.transformFunc = function(d, i) {
     var t = this.props.pathtransforms;
-    var transform = t.length == 0 ? "" : d3.transform("matrix(" + getMod(t, i) + ")").toString();
+    var transform = t.length == 0 ? "" : d3.getTranslation("matrix(" + getMod(t, i) + ")").toString();
     var offset = d === null || typeof d === "undefined" ? "translate(0, 0)" : "translate(" + this.offsetcoords.xy(d, this.props.xindex, this.props.yindex) + ")";
     return this.props.offsetorder === "after" ? transform + offset : offset + transform;
   };
