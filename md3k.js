@@ -831,8 +831,8 @@
       this.sharey.push(mpld3.get_element(this.props.sharey[i]));
     }
     this.zoom = d3.zoom();
-    this.zoom.last_t = this.zoom.translate();
-    this.zoom.last_s = this.zoom.scale();
+    this.zoom.last_t = this.translate();
+    this.zoom.last_s = this.scale();
     this.zoom_x = d3.zoom().x(this.xdom);
     this.zoom_y = d3.zoom().y(this.ydom);
     this.baseaxes = this.fig.canvas.append("g").attr("transform", "translate(" + this.position[0] + "," + this.position[1] + ")").attr("width", this.width).attr("height", this.height).attr("class", "mpld3-baseaxes");
@@ -860,15 +860,15 @@
   mpld3_Axes.prototype.zoomed = function(propagate) {
     propagate = typeof propagate == "undefined" ? true : propagate;
     if (propagate) {
-      var dt0 = this.zoom.translate()[0] - this.zoom.last_t[0];
-      var dt1 = this.zoom.translate()[1] - this.zoom.last_t[1];
-      var ds = this.zoom.scale() / this.zoom.last_s;
+      var dt0 = this.translate()[0] - this.zoom.last_t[0];
+      var dt1 = this.translate()[1] - this.zoom.last_t[1];
+      var ds = this.scale() / this.zoom.last_s;
       this.zoom_x.translate([ this.zoom_x.translate()[0] + dt0, 0 ]);
       this.zoom_x.scale(this.zoom_x.scale() * ds);
       this.zoom_y.translate([ 0, this.zoom_y.translate()[1] + dt1 ]);
       this.zoom_y.scale(this.zoom_y.scale() * ds);
-      this.zoom.last_t = this.zoom.translate();
-      this.zoom.last_s = this.zoom.scale();
+      this.zoom.last_t = this.translate();
+      this.zoom.last_s = this.scale();
       this.sharex.forEach(function(ax) {
         ax.zoom_x.translate(this.zoom_x.translate()).scale(this.zoom_x.scale());
       }.bind(this));
@@ -912,9 +912,9 @@
         ax.set_axlim(null, ylim, duration, false);
       });
     }
-    this.zoom.scale(1).translate([ 0, 0 ]);
-    this.zoom.last_t = this.zoom.translate();
-    this.zoom.last_s = this.zoom.scale();
+    this.scale(1).translate([ 0, 0 ]);
+    this.zoom.last_t = this.translate();
+    this.zoom.last_s = this.scale();
     this.zoom_x.scale(1).translate([ 0, 0 ]);
     this.zoom_y.scale(1).translate([ 0, 0 ]);
   };
