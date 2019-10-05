@@ -12,7 +12,10 @@ Introduction
 Various information regarding the library may be found,
 some of it will be documented here, at some time.
 
-Footer TEST
+Footer 
 --------------
+
+How will this information be made available? Somehow.
+
 END
 
