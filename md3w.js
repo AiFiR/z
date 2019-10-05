@@ -814,7 +814,7 @@
       this.sharey.push(mpld3.get_element(this.props.sharey[i]));
     }
     this.zoom1 = d3.zoom();
-    this.zoom1.last_t = zoom1.transform.translate();
+    this.zoom1.last_t = this.zoom1.transform.translate();
     this.zoom1.last_s = this.zoom1.scale();
     this.zoom_x = d3.behavior.zoom().x(this.xdom);
     this.zoom_y = d3.behavior.zoom().y(this.ydom);
