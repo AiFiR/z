@@ -1,10 +1,18 @@
-AiFir Title
+AiFiR a new way to experience data.
 ==========================
 
-AiFiR Info. 
+This is the js dependencies libary.
 
 Introduction
 -------------
 
 ![AiFiR Info](AiFiR.jpg "Hello")
+
+
+Various information regarding the library may be found,
+some of it will be documented here, at some time.
+
+Footer TEST
+--------------
+END
 
