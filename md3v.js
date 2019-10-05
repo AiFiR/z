@@ -813,11 +813,11 @@
     for (var i = 0; i < this.props.sharey.length; i++) {
       this.sharey.push(mpld3.get_element(this.props.sharey[i]));
     }
-    this.zoom = d3.behavior.zoom();
+    this.zoom = d3.zoom();
     this.zoom.last_t = this.zoom.translate();
     this.zoom.last_s = this.zoom.scale();
-    this.zoom_x = d3.behavior.zoom().x(this.xdom);
-    this.zoom_y = d3.behavior.zoom().y(this.ydom);
+    this.zoom_x = d3.zoom().x(this.xdom);
+    this.zoom_y = d3.zoom().y(this.ydom);
     this.baseaxes = this.fig.canvas.append("g").attr("transform", "translate(" + this.position[0] + "," + this.position[1] + ")").attr("width", this.width).attr("height", this.height).attr("class", "mpld3-baseaxes");
     this.clip = this.baseaxes.append("svg:clipPath").attr("id", this.clipid).append("svg:rect").attr("x", 0).attr("y", 0).attr("width", this.width).attr("height", this.height);
     this.axes = this.baseaxes.append("g").attr("class", "mpld3-axes").attr("clip-path", "url(#" + this.clipid + ")");
