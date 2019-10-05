@@ -286,9 +286,9 @@
     nticks: 10,
     tickvalues: null,
     tickformat: null,
-    fontsize: "11px",
-    fontcolor: "black",
-    axiscolor: "black",
+    fontsize: "21px",
+    fontcolor: "white",
+    axiscolor: "white",
     scale: "linear",
     grid: {},
     zorder: 0
