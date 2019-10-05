@@ -331,7 +331,7 @@
     if (scale === "date" && this.props.tickvalues) {
       var domain = this.props.xy === "x" ? this.parent.x.domain() : this.parent.y.domain();
       var range = this.props.xy === "x" ? this.parent.xdom.domain() : this.parent.ydom.domain();
-      var ordinal_to_js_date = d3.scale.linear().domain(domain).range(range);
+      var ordinal_to_js_date = d3.scaleLinear().domain(domain).range(range);
       this.props.tickvalues = this.props.tickvalues.map(function(value) {
         return new Date(ordinal_to_js_date(value));
       });
@@ -765,10 +765,10 @@
     this.x = this.xdom = build_scale(this.props.xscale, this.props.xdomain, [ 0, this.width ]);
     this.y = this.ydom = build_scale(this.props.yscale, this.props.ydomain, [ this.height, 0 ]);
     if (this.props.xscale === "date") {
-      this.x = mpld3.multiscale(d3.scale.linear().domain(this.props.xlim).range(this.props.xdomain.map(Number)), this.xdom);
+      this.x = mpld3.multiscale(d3.scaleLinear().domain(this.props.xlim).range(this.props.xdomain.map(Number)), this.xdom);
     }
     if (this.props.yscale === "date") {
-      this.y = mpld3.multiscale(d3.scale.linear().domain(this.props.ylim).range(this.props.ydomain.map(Number)), this.ydom);
+      this.y = mpld3.multiscale(d3.scaleLinear().domain(this.props.ylim).range(this.props.ydomain.map(Number)), this.ydom);
     }
     var axes = this.props.axes;
     for (var i = 0; i < axes.length; i++) {
@@ -1386,7 +1386,7 @@
   }
   mpld3_Figure.prototype.getBrush = function() {
     if (typeof this._brush === "undefined") {
-      var brush = d3.svg.brush().x(d3.scale.linear()).y(d3.scale.linear());
+      var brush = d3.svg.brush().x(d3.scaleLinear()).y(d3.scaleLinear());
       this.root.selectAll(".mpld3-axes").data(this.axes).call(brush);
       this.axes.forEach(function(ax) {
         brush.x(ax.xdom).y(ax.ydom);
