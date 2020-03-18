@@ -1,0 +1,79 @@
+<svg id="Flappy_Icon" data-name="Flappy Icon" xmlns="http://www.w3.org/2000/svg" width="451" height="337" viewBox="-35 -19 520 375">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #e4e7ec;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #484848;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3, .cls-4, .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 1px;
+      }
+
+      .cls-3 {
+        stroke: silver;
+        font-size: 30px;
+      }
+
+      .cls-3, .cls-6 {
+        text-anchor: middle;
+        font-family: Lato;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        stroke: #43484e;
+      }
+
+      .cls-5 {
+        fill: #a1a3a6;
+      }
+
+      .cls-6 {
+        stroke: #43484d;
+        font-size: 72px;
+        fill: silver;
+      }
+    </style>
+  </defs>
+  <g id="Logo_copy" data-name="Logo copy">
+    <path id="Flappy_Vector" data-name="Flappy Vector" class="cls-1" d="M260,165.464l4.916,14.326H253.855Zm32.334,61.756L260,213.526,227.666,227.22,260,150.78l25.542,60.384Z" transform="translate(-32 -17)"/>
+    <g id="Side_Vector" data-name="Side Vector">
+      <path id="Shape_1_copy_2" data-name="Shape 1 copy 2" class="cls-2" d="M218.5,247.325l-16.284-6.564-16.045,7.128,15.5-38.5,13.3,29.965Z" transform="translate(-32 -17)"/>
+      <path id="Shape_1_copy_3" data-name="Shape 1 copy 3" class="cls-2" d="M178.5,218.325l-16.284-6.564-16.045,7.128,15.5-38.5,13.3,29.965Z" transform="translate(-32 -17)"/>
+      <path id="Shape_1_copy_4" data-name="Shape 1 copy 4" class="cls-2" d="M138.5,179.325l-16.284-6.564-16.045,7.128,15.5-38.5,13.3,29.965Z" transform="translate(-32 -17)"/>
+      <path id="Shape_1_copy_5" data-name="Shape 1 copy 5" class="cls-2" d="M98.5,138.325l-16.284-6.564-16.045,7.128,15.5-38.5,13.3,29.965Z" transform="translate(-32 -17)"/>
+    </g>
+    <g id="Side_Vector_copy" data-name="Side Vector copy">
+      <path id="Shape_1_copy_2-2" data-name="Shape 1 copy 2" class="cls-2" d="M300.5,247.325l16.284-6.564,16.045,7.128-15.5-38.5-13.3,29.965Z" transform="translate(-32 -17)"/>
+      <path id="Shape_1_copy_3-2" data-name="Shape 1 copy 3" class="cls-2" d="M340.5,218.325l16.284-6.564,16.045,7.128-15.5-38.5-13.3,29.965Z" transform="translate(-32 -17)"/>
+      <path id="Shape_1_copy_4-2" data-name="Shape 1 copy 4" class="cls-2" d="M380.5,179.325l16.284-6.564,16.045,7.128-15.5-38.5-13.3,29.965Z" transform="translate(-32 -17)"/>
+      <path id="Shape_1_copy_5-2" data-name="Shape 1 copy 5" class="cls-2" d="M420.5,138.325l16.284-6.564,16.045,7.128-15.5-38.5-13.3,29.965Z" transform="translate(-32 -17)"/>
+    </g>
+  </g>
+  <text id="A_USEFUL_GAME_copy" data-name="A USEFUL GAME copy" class="cls-3" transform="translate(228.788 332.557) scale(1.2)">A USEFUL GAME</text>
+  <g id="Projectiles">
+    <circle id="Merged_Project_Vect" data-name="Merged Project Vect" class="cls-4" cx="228" cy="10" r="7"/>
+    <path class="cls-5" d="M259,35h2v86h-2V35Z" transform="translate(-32 -17)"/>
+  </g>
+  <text id="FLAPPY_MARKETS" data-name="FLAPPY MARKETS" class="cls-6" transform="translate(224.768 293.322) scale(0.667)">FLAPPY MARKETS</text>
+</svg>
