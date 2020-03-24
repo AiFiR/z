@@ -1,1 +1,1 @@
-Folder containing icon set for license.
+A folder containing icon sets.
