@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
         {
-            "src": "https://aifir.github.io/z/t/andr-ch-192.png",
+            "src": "https://aifir.github.io/z/t/i/andr-ch-192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://aifir.github.io/z/t/andr-ch-512.png",
+            "src": "https://aifir.github.io/z/t/i/andr-ch-512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
