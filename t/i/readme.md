@@ -1,1 +1,1 @@
-Icons for license.
+Folder containing icon set for license.
