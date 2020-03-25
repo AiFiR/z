@@ -1,8 +1,8 @@
-﻿/* noto-sans-regular - latin-ext_latin */
+/* noto-sans-regular - latin-ext_latin */
 @font-face {
   font-family: 'Noto Sans';
   font-style: normal;
   font-weight: 400;
-  font-display: swap;
+  font-display: block;
   src: local('Noto Sans'), local('NotoSans'), url('https://aifir.github.io/z/r/noto-sans.woff') format('woff');
 }
