@@ -1,0 +1,176 @@
+<svg id="Logo_Vector" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460" height="460" viewBox="0 0 920 920">
+
+<defs>
+<style>
+
+
+
+.clsz3{
+filter: url(#filteru3);
+fill: #c0c0c0/*rgba(0,0,0,0)*/;
+
+stroke:black;stroke-linejoin:round;stroke-width:4px;
+
+
+}
+.clsz4,.clsz5,.clsz6{fill:#eeeeef}
+
+
+</style>
+<filter xmlns="http://www.w3.org/2000/svg" id="filteru2" filterUnits="userSpaceOnUse">
+
+  <feComposite result="composite"/>
+  <feComposite result="composite-2"/>
+  <feComposite result="composite-3"/>
+  <feFlood result="flood" flood-color="black" flood-opacity="0.14"/>
+  <feComposite result="composite-4" operator="in" in2="composite-3"/>
+  <feBlend result="blend" mode="blendDivide" in2="SourceGraphic"/>
+  <feBlend result="blend-2" in="SourceGraphic"/>
+</filter>
+  <filter id="filteru" x="0" y="0" width="920" height="920" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6"/>
+      <feFlood result="flood" flood-color="#6e767b" flood-opacity="0.06"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="21"/>
+      <feFlood result="flood-2" flood-color="#5c6367" flood-opacity="0.08"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" in2="composite"/>
+      <feGaussianBlur result="blur-3" stdDeviation="15"/>
+      <feFlood result="flood-3" flood-color="#ac9e00" flood-opacity="0.17"/>
+      <feComposite result="composite-3" operator="in" in2="blur-3"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-4" stdDeviation="6" in="SourceAlpha"/>
+      <feComposite result="composite-4"/>
+      <feComposite result="composite-5"/>
+      <feComposite result="composite-6"/>
+      <!--Shadow: #408bd2: 0.15-->
+      <feFlood result="flood-4" flood-color="rgb(196,196,196)" flood-opacity="0.4"/>
+      <feComposite result="composite-7" operator="in" in2="composite-6"/>
+      <feBlend result="blend-3" mode="screen" in2="blend-2"/>
+      <feBlend result="blend-4" in="SourceGraphic"/>
+  </filter>
+
+
+<filter xmlns="http://www.w3.org/2000/svg" id="filteru3" filterUnits="userSpaceOnUse">
+
+  <feComposite result="composite"/>
+  <feComposite result="composite-2"/>
+  <feComposite result="composite-3"/>
+  <feFlood result="flood" flood-color="black" flood-opacity="0.14"/>
+  <feComposite result="composite-4" operator="in" in2="composite-3"/>
+  <feBlend result="blend" mode="blendDivide" in2="SourceGraphic"/>
+  <feBlend result="blend-2" in="SourceGraphic"/>
+  
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6"/>
+      <feFlood result="flood" flood-color="#6e767b" flood-opacity="0.06"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feOffset result="offset-2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur-2" stdDeviation="21"/>
+      <feFlood result="flood-2" flood-color="#5c6367" flood-opacity="0.08"/>
+      <feComposite result="composite-2" operator="in" in2="blur-2"/>
+      <feBlend result="blend" in2="composite"/>
+      <feGaussianBlur result="blur-3" stdDeviation="15"/>
+      <feFlood result="flood-3" flood-color="#ac9e00" flood-opacity="0.17"/>
+      <feComposite result="composite-3" operator="in" in2="blur-3"/>
+      <feBlend result="blend-2" in2="blend"/>
+      <feGaussianBlur result="blur-4" stdDeviation="6" in="SourceAlpha"/>
+      <feComposite result="composite-4"/>
+      <feComposite result="composite-5"/>
+      <feComposite result="composite-6"/>
+      <!--Shadow: #408bd2: 0.15-->
+      <feFlood result="flood-4" flood-color="rgb(196,196,196)" flood-opacity="0.4"/>
+      <feComposite result="composite-7" operator="in" in2="composite-6"/>
+      <feBlend result="blend-3" mode="screen" in2="blend-2"/>
+      <feBlend result="blend-4" in="SourceGraphic"/>
+  </filter>
+
+
+  <linearGradient xmlns="http://www.w3.org/2000/svg" id="lg-53" x1="457" y1="800" x2="457" y2="727" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#b53651"/>
+  <stop offset="1" stop-color="#fc2945"/>
+</linearGradient>
+</defs>
+
+
+<g style="fill: url(#lg-53); ">
+
+<path  class="clsz3" _style="filter: url(#filteru);
+fill: #c0c0c0;
+
+stroke:black; stroke-linejoin:round; stroke-width:4px;
+
+"  d="M251.8,744.708l12.489,27.708H240.527Zm-28.057,47.1h-1.1q-3.484,0-4.7.784a3.1,3.1,0,0,0-1.22,2.824,3.285,3.285,0,0,0,1.22,2.953q1.219,0.811,4.938.811h15.277q4.239,0,5.489-.811a3.25,3.25,0,0,0,1.249-2.953,2.964,2.964,0,0,0-1.394-2.8q-1.393-.81-5.228-0.811h-5.634l5-12.442h29.509l5.635,12.442h-5.4q-3.777,0-5.141.811a2.981,2.981,0,0,0-1.365,2.8,3.248,3.248,0,0,0,1.249,2.953q1.248,0.811,5.663.811h15.8q3.02,0,4.125-.811a3.446,3.446,0,0,0,1.1-2.953,3.16,3.16,0,0,0-1.162-2.824,8.279,8.279,0,0,0-4.3-.784H282.35l-22.712-51.077a6.554,6.554,0,0,0-2.062-2.8q-1.134-.758-4.328-0.758H236.693q-5.577,0-6.826.81a3.253,3.253,0,0,0-1.249,2.954,3.121,3.121,0,0,0,1.424,2.9,10.25,10.25,0,0,0,4.966.862h8.481ZM316.7,739.951q1.132,0.993,4.851.993,3.774,0,4.85-1.072t1.075-5.567q0-4.6-1.162-5.83t-4.763-1.228q-3.718,0-4.851,1.464t-1.133,7.11Q315.565,738.958,316.7,739.951Zm9.614,13.07a1.78,1.78,0,0,0-.9-1.569,4.565,4.565,0,0,0-2.469-.575h-17.02a5.6,5.6,0,0,0-3.486.909,3.245,3.245,0,0,0-1.161,2.725,3.287,3.287,0,0,0,1.253,2.778,5.907,5.907,0,0,0,3.643.96h11.369v33.563H299.823a6.206,6.206,0,0,0-3.659.889,3.143,3.143,0,0,0-1.22,2.719,3.418,3.418,0,0,0,1.162,2.823,5.456,5.456,0,0,0,3.485.941H344.61a6.271,6.271,0,0,0,3.747-.811,3.6,3.6,0,0,0,1.016-2.953,3.31,3.31,0,0,0-1.075-2.745,5.3,5.3,0,0,0-3.34-.863H326.312V753.021Zm120.859,38.791v-23.16h15.336v1.516q0,3.817.813,5.124a3.145,3.145,0,0,0,2.9,1.307,3.329,3.329,0,0,0,2.759-.993,6.057,6.057,0,0,0,.785-3.608V758.719a4.9,4.9,0,0,0-.843-3.189,3.356,3.356,0,0,0-2.7-.993,3.145,3.145,0,0,0-2.9,1.307q-0.815,1.306-.813,5.123v1.359H447.171V744.708h31.542v7.476q0,4.026.872,5.176t3.311,1.15a4.337,4.337,0,0,0,2.991-.915,3.506,3.506,0,0,0,1.017-2.745V741.362a4.354,4.354,0,0,0-1.017-3.11,3.933,3.933,0,0,0-2.991-1.072H431.487a4.294,4.294,0,0,0-3.02.967,3.619,3.619,0,0,0-1.046,2.8,3.251,3.251,0,0,0,1.249,2.954q1.248,0.811,5.664.81h3.659v47.1h-5.576a6.708,6.708,0,0,0-3.863.837,3.219,3.219,0,0,0-1.133,2.771,3.619,3.619,0,0,0,1.046,2.8,4.289,4.289,0,0,0,3.02.967h28.638a4.291,4.291,0,0,0,3.02-.967,3.619,3.619,0,0,0,1.046-2.8,3.268,3.268,0,0,0-1.1-2.745,5.783,5.783,0,0,0-3.543-.863H447.171Zm74.778-51.861q1.133,0.993,4.85.993,3.776,0,4.85-1.072t1.075-5.567q0-4.6-1.162-5.83t-4.763-1.228q-3.718,0-4.85,1.464t-1.133,7.11Q520.816,738.958,521.949,739.951Zm9.613,13.07a1.778,1.778,0,0,0-.9-1.569,4.563,4.563,0,0,0-2.469-.575h-17.02a5.6,5.6,0,0,0-3.485.909,3.246,3.246,0,0,0-1.162,2.725,3.288,3.288,0,0,0,1.254,2.778,5.905,5.905,0,0,0,3.643.96h11.368v33.563H505.074a6.209,6.209,0,0,0-3.66.889,3.143,3.143,0,0,0-1.22,2.719,3.418,3.418,0,0,0,1.162,2.823,5.456,5.456,0,0,0,3.485.941H549.86a6.271,6.271,0,0,0,3.747-.811,3.6,3.6,0,0,0,1.016-2.953,3.313,3.313,0,0,0-1.074-2.745,5.3,5.3,0,0,0-3.34-.863H531.562V753.021Zm130.851-8.783q7.957,0,11.966,2.666a8.916,8.916,0,0,1,4.008,7.946,8.75,8.75,0,0,1-4.095,7.869q-4.1,2.64-12.228,2.64H650.04V744.238h12.373ZM650.04,772.312h7.726a11.259,11.259,0,0,1,5.9,1.359q2.235,1.36,5.663,6.012L680.478,794.9a5.634,5.634,0,0,0,.523.523q2.73,3.764,5.577,3.764h6.564a4.182,4.182,0,0,0,2.991-.967,3.682,3.682,0,0,0,1.017-2.8,3.105,3.105,0,0,0-1.22-2.8q-1.22-.81-4.473-0.811H689.54l-11.676-16.1a16.8,16.8,0,0,0-2.294-2.509,13.538,13.538,0,0,0-2.7-1.83q7.318-1.673,11.414-5.986a14.471,14.471,0,0,0,4.1-10.325,16.349,16.349,0,0,0-2.236-8.313,17.279,17.279,0,0,0-6.128-6.221,21.173,21.173,0,0,0-7.407-2.588,84.935,84.935,0,0,0-13.273-.758H634.821a4.518,4.518,0,0,0-3.05.889,3.353,3.353,0,0,0-1.017,2.666,2.913,2.913,0,0,0,1.278,2.771q1.278,0.732,5.635.732h3.369v47.574H635.75a6.727,6.727,0,0,0-3.834.837,3.181,3.181,0,0,0-1.162,2.771,3.622,3.622,0,0,0,1.046,2.8,4.292,4.292,0,0,0,3.021.967h19.517q3.369,0,4.589-.837a3.292,3.292,0,0,0,1.22-2.927,2.976,2.976,0,0,0-1.394-2.771,9.849,9.849,0,0,0-4.763-.837h-3.95v-19.5Z" />
+</g>
+
+
+<g style=" filter: url(#filteru); stroke: black !Important; fill:#eeeeef; stroke-width: 4px;
+stroke-linejoin:round;">
+  <path class="clsz4" d="M219.7,397.34L82.48,643.207l-34.9-53.138,172.9-307.724,138,251.414-58.69.8Z"/>
+  <path class="clsz5" d="M357.7,533.759L220.483,283.138l57.9,0.793L447.31,586.9H172.1l30.931-52.3Z"/>
+  <path class="clsz6" d="M172.9,586.9h273.62l-27.758,55.517H82.483l138-246.655,30.138,54.724Z"/>
+  <path class="clsz4" d="M528.207,650.345l-48.379-38.862-6.345-271.242,50.758,34.9Z"/>
+  <path class="clsz6" d="M580.552,621.793l-52.345,29.345-3.966-276,55.518,58.69Z"/>
+  <path class="clsz6" d="M575.793,314.069l-51.552,23V272.034l51.552-23v65.035Z"/>
+  <path class="clsz4" d="M524.241,337.069l-49.965-31.724-0.793-65.035,50.758,31.724v65.035Z"/>
+  <path class="clsz5" d="M524.241,272.034L473.483,240.31l52.345-23,49.965,31.724Z"/>
+</g>
+
+<g id="Shape_" style="filter: url(#filteru); stroke: black; fill: none; stroke-width: 4px;
+stroke-linejoin:round;">
+  <path class="clsz7" d="M739.97 218.1l-29.34-5.55L804.21 92.79Z"/>
+  <path class="clsz8" d="M739.97 218.1l-29.34-5.55v94.38Z"/>
+  <path class="clsz9" d="M687.62 264.9l23-51.55V264.9h-23Z"/>
+  <path class="clsz10" d="M687.62 264.9l-19.03 84.86L710.62 264.9h-23Z"/>
+  <path class="clsz11" d="M710.62 428.28l-42.03-78.52L710.62 264.9V428.28Z"/>
+  <path class="clsz12" d="M710.62 428.28l-42.03-78.52L690 524.24Z"/>
+  <path class="clsz13" d="M710.62 428.28l16.66 94.38L690 524.24Z"/>
+  <path class="clsz14" d="M710.62 428.28l16.66 94.38 35.69-156.24Z"/>
+  <path class="clsz15" d="M710.62 428.28V338.66l52.35 27.76Z"/>
+  <path class="clsz16" d="M723.31 268.07l-12.69 39.66v30.93l52.35 27.76Z"/>
+  <path class="clsz17" d="M723.31 268.86l19.04 6.35 20.62 91.21Z"/>
+  <path class="clsz18" d="M722.52 269.65l19.83 5.55-3.17-55.52Z"/>
+  <path class="clsz19" d="M798.66 438.59l-71.38 84.07 35.69-156.24Z"/>
+  <path class="clsz20" d="M798.66 438.59l-71.38 84.07 27.76-0.79Z"/>
+  <path class="clsz21" d="M798.66 438.59L839.1 489.35l-84.07 32.52Z"/>
+  <path class="clsz22" d="M798.66 438.59L839.1 489.35l18.24-11.9Z"/>
+  <path class="clsz23" d="M798.66 438.59l-34.9-71.38 93.59 110.24Z"/>
+  <path class="clsz24" d="M742.35 275.21l20.62 92 20.62 23Z"/>
+  <path class="clsz25" d="M822.45 555.17L839.1 489.35l-84.07 32.52Z"/>
+  <path class="clsz26" d="M822.45 555.17l-44.41 48.38-23-81.69Z"/>
+  <path class="clsz27" d="M739.17 602.76l38.86 0.79-23-81.69Z"/>
+  <path class="clsz28" d="M739.17 604.35l-30.93-81.69 46.79-0.79Z"/>
+  <path class="clsz29" d="M739.17 604.35l-30.93-81.69-26.17 79.31Z"/>
+  <path class="clsz30" d="M689.21 523.45l19.03-0.79-26.17 79.31Z"/>
+  <path class="clsz31" d="M686.83 615.45l91.21-11.9-95.17-1.59Z"/>
+  <path class="clsz32" d="M686.03 615.45l92-11.9-36.48 26.17Z"/>
+  <path class="clsz33" d="M824.03 646.38l-46-42.83-36.48 26.17Z"/>
+  <path class="clsz34" d="M824.03 646.38l-46-42.83 29.35 11.9Z"/>
+  <path class="clsz35" d="M822.45 555.17l-44.41 48.38 29.35 11.9Z"/>
+  <path class="clsz36" d="M822.45 555.17l8.72 30.93-23.79 29.35Z"/>
+  <path class="clsz37" d="M822.45 555.17l8.72 32.52 25.38-52.34Z"/>
+  <path class="clsz38" d="M822.45 555.17l15.86-65.03 19.04 45.21Z"/>
+  <path class="clsz39" d="M857.35 477.45l-19.03 12.69 28.55 69Z"/>
+  <path class="clsz40" d="M857.35 533.76L830.38 587.69l36.48-28.55Z"/>
+  <path class="clsz41" d="M824.03 645.59l6.35-58.69-23.79 29.34Z"/>
+  <path class="clsz42" d="M824.03 645.59l-26.96 34.1-33.31 8.72Z"/>
+  <path class="clsz43" d="M824.03 645.59l-82.48-15.86 22.21 58.69Z"/>
+  <path class="clsz44" d="M679.69 679.69l61.86-49.97 22.21 58.69Z"/>
+  <path class="clsz45" d="M679.69 679.69l61.86-49.97-58.69 2.38Z"/>
+  <path class="clsz46" d="M686.03 615.45l55.52 14.28-58.69 2.38Z"/>
+  <path class="clsz47" d="M679.69 679.69L643.21 632.9l39.66-0.79Z"/>
+  <path class="clsz48" d="M665.41 613.86L643.21 632.9l39.66-0.79Z"/>
+  <path class="clsz49" d="M665.41 613.86l20.62 1.59L682.86 632.1Z"/>
+  <path class="clsz50" d="M665.41 613.86l21.41 1.59-3.97-15.07Z"/>
+  <path class="clsz51" d="M665.41 613.86l7.93-55.52 9.52 42.03Z"/>
+  <path class="clsz52" d="M689.21 525.03l-15.86 33.31 9.52 42.03Z"/>
+  <path class="clsz53" d="M690 524.24l-16.65-23-4.76-149.1Z"/>
+  <path class="clsz54" d="M655.9 384.66l17.45 116.59-4.76-149.1Z"/>
+  <path class="clsz55" d="M655.9 384.66l12.69-83.28v50.76Z"/>
+  <path class="clsz56" d="M687.62 264.9l-19.03 36.48v50.76Z"/>
+  <path class="clsz57" d="M679.69 679.69L643.21 632.9 614.66 655.1Z"/>
+</g>
+
+</svg>
