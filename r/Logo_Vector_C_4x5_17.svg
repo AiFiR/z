@@ -1,22 +1,19 @@
 <svg id="Logo_Vector" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="37 86 842 730" style="cursor: default; _background: dimgray;" class="logo-fire">
 <defs><style>
 
-.lf_:hover path {fill: white !Important;}
-
 .lf:hover path {fill: url(#lg-0) !Important; stroke: rgba(255,180,220,0.7) !Important; stroke-linejoin:round; }
 .lf0:hover {fill: url(#lg-0) !Important; stroke: rgba(255,180,220,0.7) !Important; stroke-linejoin:round; }
 
 
+
+
+
+
+
 .lfa:hover path {fill: url(#lg-a) !Important;}
 
+.lf1:hover {fill: url(#lg-b) !Important; stroke: rgba(255,180,10,0.7) !Important; stroke-linejoin:round; }
 
-._none_lf2:hover rect path {fill: url(#lg-a) !Important; stroke: rgba(255,180,220,0.7) !Important; stroke-linejoin:round;}
-
-
-.lf1:hover path {fill: url(#lg-b) !Important;}
-.lf2:hover path {fill: url(#lg-c) !Important;}
-.lf3:hover path {fill: url(#lg-d) !Important;}
-.lf4:hover path {fill: url(#lg-e) !Important;}
 
 .cls-1{fill:url(#radial-gradient)}.cls-2{stroke:#b63648;stroke-width:1.6px;fill:url(#lg)}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-2,.cls-20,.cls-21,.cls-22,.cls-23,.cls-24,.cls-25,.cls-26,.cls-27,.cls-28,.cls-29,.cls-30,.cls-31,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39,.cls-4,.cls-40,.cls-41,.cls-42,.cls-43,.cls-44,.cls-45,.cls-46,.cls-47,.cls-48,.cls-49,.cls-5,.cls-50,.cls-51,.cls-52,.cls-53,.cls-54,.cls-55,.cls-56,.cls-57,.cls-58,.cls-6,.cls-7,.cls-8,.cls-9{fill-rule:evenodd}.cls-3{filter:url(#filter)}.cls-4{fill:#fd3c53}.cls-5{fill:#b13746}.cls-6{fill:#fc8daf}.cls-7{fill:url(#lg-2)}.cls-8{fill:url(#lg-3)}.cls-9{fill:url(#lg-4)}.cls-10{fill:url(#lg-5)}.cls-11{fill:url(#lg-6)}.cls-12{fill:url(#lg-7)}.cls-13{fill:url(#lg-8)}.cls-14{fill:url(#lg-9)}.cls-15{fill:url(#lg-10)}.cls-16{fill:url(#lg-11)}.cls-17{fill:url(#lg-12)}.cls-18{fill:url(#lg-13)}.cls-19{fill:url(#lg-14)}.cls-20{fill:url(#lg-15)}.cls-21{fill:url(#lg-16)}.cls-22{fill:url(#lg-17)}.cls-23{fill:url(#lg-18)}.cls-24{fill:url(#lg-19)}.cls-25{fill:url(#lg-20)}.cls-26{fill:url(#lg-21)}.cls-27{fill:url(#lg-22)}.cls-28{fill:url(#lg-23)}.cls-29{fill:url(#lg-24)}.cls-30{fill:url(#lg-25)}.cls-31{fill:url(#lg-26)}.cls-32{fill:url(#lg-27)}.cls-33{fill:url(#lg-28)}.cls-34{fill:url(#lg-29)}.cls-35{fill:url(#lg-30)}.cls-36{fill:url(#lg-31)}.cls-37{fill:url(#lg-32)}.cls-38{fill:url(#lg-33)}.cls-39{fill:url(#lg-34)}.cls-40{fill:url(#lg-35)}.cls-41{fill:url(#lg-36)}.cls-42{fill:url(#lg-37)}.cls-43{fill:url(#lg-38)}.cls-44{fill:url(#lg-39)}.cls-45{fill:url(#lg-40)}.cls-46{fill:url(#lg-41)}.cls-47{fill:url(#lg-42)}.cls-48{fill:url(#lg-43)}.cls-49{fill:url(#lg-44)}.cls-50{fill:url(#lg-45)}.cls-51{fill:url(#lg-46)}.cls-52{fill:url(#lg-47)}.cls-53{fill:url(#lg-48)}.cls-54{fill:url(#lg-49)}.cls-55{fill:url(#lg-50)}.cls-56{fill:url(#lg-51)}.cls-57{fill:url(#lg-52)}.cls-58{stroke:#f52538;stroke-linejoin:round;stroke-width:.8px;fill:url(#lg-53);filter:url(#filter-2)}
 </style>
@@ -48,15 +45,18 @@
 </linearGradient><!--generic-->
 <linearGradient id="lg-a" x1="50%" y1="10%" x2="50%" y2="115%" gradientUnits="userSpaceOnUse">
   <stop offset="0%" stop-color="#dc002c"/>
-  <stop offset="88%" stop-color="rgba(255,255,255,0.7)"/>
-  <stop offset="98%" stop-color="rgba(255,0,25,0.2)"/>
+  <stop offset="87%" stop-color="rgba(255,255,255,0.7)"/>
+  <stop offset="99%" stop-color="rgba(255,0,25,0.2)"/>
 </linearGradient><!--for-text-->
 
 
-<linearGradient id="lg-b" x1="457" y1="800" x2="457" y2="727" gradientUnits="userSpaceOnUse">
-  <stop offset="0" stop-color="#b63648"/>
-  <stop offset="1" stop-color="#953241"/>
+<linearGradient id="lg-b" x1="50%" y1="10%" x2="50%" y2="115%" gradientUnits="userSpaceOnUse">
+  <stop offset="40%" stop-color="gold"/>
+  <stop offset="55%" stop-color="white"/>
+  <stop offset="70%" stop-color="gold"/>
 </linearGradient><!--gold-large-stroke-->
+
+
 <linearGradient id="lg-c" x1="457" y1="800" x2="457" y2="727" gradientUnits="userSpaceOnUse">
   <stop offset="0" stop-color="#b63648"/>
   <stop offset="1" stop-color="#953241"/>
@@ -186,36 +186,41 @@
 <g class="lf"><path class="cls-9" d="M687.62 264.9l23-51.55V264.9h-23Z"/></g>
 <g class="lf"><path class="cls-10" d="M687.62 264.9l-19.03 84.86L710.62 264.9h-23Z"/></g>
 <g class="lf"><path class="cls-11" d="M710.62 428.28l-42.03-78.52L710.62 264.9V428.28Z"/></g>
-<g class="lf"><path class="cls-12" d="M710.62 428.28l-42.03-78.52L690 524.24Z"/></g>
-<g class="lf"><path class="cls-13" d="M710.62 428.28l16.66 94.38L690 524.24Z"/></g>
 <g class="lf"><path class="cls-14" d="M710.62 428.28l16.66 94.38 35.69-156.24Z"/></g>
 <g class="lf"><path class="cls-15" d="M710.62 428.28V338.66l52.35 27.76Z"/></g>
 <g class="lf"><path class="cls-16" d="M723.31 268.07l-12.69 39.66v30.93l52.35 27.76Z"/></g>
 <g class="lf"><path class="cls-17" d="M723.31 268.86l19.04 6.35 20.62 91.21Z"/></g>
 <g class="lf"><path class="cls-18" d="M722.52 269.65l19.83 5.55-3.17-55.52Z"/></g>
-<g class="lf"><path class="cls-19" d="M798.66 438.59l-71.38 84.07 35.69-156.24Z"/></g>
-<g class="lf"><path class="cls-20" d="M798.66 438.59l-71.38 84.07 27.76-0.79Z"/></g>
-<g class="lf"><path class="cls-21" d="M798.66 438.59L839.1 489.35l-84.07 32.52Z"/></g>
+
+<g id="Fir" style="_display:none;">
+<path class="cls-12 lf1" d="M710.62 428.28l-42.03-78.52L690 524.24Z"/>
+<path class="cls-13 lf1" d="M710.62 428.28l16.66 94.38L690 524.24Z"/>
+<path class="cls-19 lf1" d="M798.66 438.59l-71.38 84.07 35.69-156.24Z"/>
+<path class="cls-20 lf1" d="M798.66 438.59l-71.38 84.07 27.76-0.79Z"/>
+<path class="cls-21 lf1" d="M798.66 438.59L839.1 489.35l-84.07 32.52Z"/>
+<path class="cls-25 lf1" d="M822.45 555.17L839.1 489.35l-84.07 32.52Z"/>
+<path class="cls-26 lf1" d="M822.45 555.17l-44.41 48.38-23-81.69Z"/>
+<path class="cls-27 lf1" d="M739.17 602.76l38.86 0.79-23-81.69Z"/>
+<path class="cls-28 lf1" d="M739.17 604.35l-30.93-81.69 46.79-0.79Z"/>
+<path class="cls-29 lf1" d="M739.17 604.35l-30.93-81.69-26.17 79.31Z"/>
+<path class="cls-30 lf1" d="M689.21 523.45l19.03-0.79-26.17 79.31Z"/>
+<path class="cls-31 lf1" d="M686.83 615.45l91.21-11.9-95.17-1.59Z"/>
+<path class="cls-32 lf1" d="M686.03 615.45l92-11.9-36.48 26.17Z"/>
+<path class="cls-34 lf1" d="M824.03 646.38l-46-42.83 29.35 11.9Z"/>
+<path class="cls-35 lf1" d="M822.45 555.17l-44.41 48.38 29.35 11.9Z"/>
+<path class="cls-36 lf1" d="M822.45 555.17l8.72 30.93-23.79 29.35Z"/>
+<path class="cls-37 lf1" d="M822.45 555.17l8.72 32.52 25.38-52.34Z"/>
+<path class="cls-38 lf1" d="M822.45 555.17l15.86-65.03 19.04 45.21Z"/>
+<path class="cls-41 lf1" d="M824.03 645.59l6.35-58.69-23.79 29.34Z"/>
+</g>
+
+
 <g class="lf"><path class="cls-22" d="M798.66 438.59L839.1 489.35l18.24-11.9Z"/></g>
 <g class="lf"><path class="cls-23" d="M798.66 438.59l-34.9-71.38 93.59 110.24Z"/></g>
 <g class="lf"><path class="cls-24" d="M742.35 275.21l20.62 92 20.62 23Z"/></g>
-<g class="lf"><path class="cls-25" d="M822.45 555.17L839.1 489.35l-84.07 32.52Z"/></g>
-<g class="lf"><path class="cls-26" d="M822.45 555.17l-44.41 48.38-23-81.69Z"/></g>
-<g class="lf"><path class="cls-27" d="M739.17 602.76l38.86 0.79-23-81.69Z"/></g>
-<g class="lf"><path class="cls-28" d="M739.17 604.35l-30.93-81.69 46.79-0.79Z"/></g>
-<g class="lf"><path class="cls-29" d="M739.17 604.35l-30.93-81.69-26.17 79.31Z"/></g>
-<g class="lf"><path class="cls-30" d="M689.21 523.45l19.03-0.79-26.17 79.31Z"/></g>
-<g class="lf"><path class="cls-31" d="M686.83 615.45l91.21-11.9-95.17-1.59Z"/></g>
-<g class="lf"><path class="cls-32" d="M686.03 615.45l92-11.9-36.48 26.17Z"/></g>
 <g class="lf"><path class="cls-33" d="M824.03 646.38l-46-42.83-36.48 26.17Z"/></g>
-<g class="lf"><path class="cls-34" d="M824.03 646.38l-46-42.83 29.35 11.9Z"/></g>
-<g class="lf"><path class="cls-35" d="M822.45 555.17l-44.41 48.38 29.35 11.9Z"/></g>
-<g class="lf"><path class="cls-36" d="M822.45 555.17l8.72 30.93-23.79 29.35Z"/></g>
-<g class="lf"><path class="cls-37" d="M822.45 555.17l8.72 32.52 25.38-52.34Z"/></g>
-<g class="lf"><path class="cls-38" d="M822.45 555.17l15.86-65.03 19.04 45.21Z"/></g>
 <g class="lf"><path class="cls-39" d="M857.35 477.45l-19.03 12.69 28.55 69Z"/></g>
 <g class="lf"><path class="cls-40" d="M857.35 533.76L830.38 587.69l36.48-28.55Z"/></g>
-<g class="lf"><path class="cls-41" d="M824.03 645.59l6.35-58.69-23.79 29.34Z"/></g>
 <g class="lf"><path class="cls-42" d="M824.03 645.59l-26.96 34.1-33.31 8.72Z"/></g>
 <g class="lf"><path class="cls-43" d="M824.03 645.59l-82.48-15.86 22.21 58.69Z"/></g>
 <g class="lf"><path class="cls-44" d="M679.69 679.69l61.86-49.97 22.21 58.69Z"/></g>
