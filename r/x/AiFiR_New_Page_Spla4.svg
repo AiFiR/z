@@ -142,7 +142,7 @@
       <feComposite result="composite"/>
       <feComposite result="composite-2"/>
       <feComposite result="composite-3"/>
-      <feFlood result="flood" flood-color="cyan" flood-opacity=".3"/>
+      <feFlood result="flood" flood-color="rgba(0,191,255,0.32)" flood-opacity=".3"/>
       <feComposite result="composite-4" operator="in" in2="composite-3"/>
       <feBlend result="blend-2" in="SourceGraphic"/>
     </filter>
