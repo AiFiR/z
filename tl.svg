@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 66">
+  <defs>
+    <linearGradient id="a" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4682b4">
+        <animate attributeName="stop-color" dur="6s" repeatCount="indefinite" values="#43484d; rgb(150,170,200); deepskyblue;"/>
+      </stop>
+      <stop offset="100%" stop-color="#1e90ff">
+        <animate attributeName="stop-color" dur="6s" repeatCount="indefinite" values="rgb(150,170,200); rgb(150,170,200); steelblue;"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <g>
+    <animateTransform fill="freeze" attributeName="transform" begin="0s" dur="2s" repeatCount="indefinite" type="rotate" values="0 33 33;270 33 33"/>
+    <circle cx="33" cy="33" r="29" fill="none" stroke="url(#a)" stroke-dasharray="187" stroke-dashoffset="610" stroke-linecap="round" stroke-width="4">
+      <animate fill="freeze" attributeName="stroke-width" begin="0s" dur="6s" repeatCount="indefinite" values="6px;3px;1.5px;8px"/>
+      <animateTransform fill="freeze" attributeName="transform" begin="0s" dur="2s" repeatCount="indefinite" type="rotate" values="0 33 33;135 33 33;450 33 33"/>
+      <animate fill="freeze" attributeName="stroke-dashoffset" begin="0s" dur="6s" repeatCount="indefinite" values="187;46.75;187"/>
+    </circle>
+  </g>
+</svg>
