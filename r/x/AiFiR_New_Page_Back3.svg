@@ -11,8 +11,8 @@
 
       .cls-3 {
         fill: none;
-        stroke: #22282b;
-        stroke-width: 2px;
+        stroke: rgba(228,235,246,1);
+        stroke-width: 1px;
         fill-rule: evenodd;
       }
     </style>
