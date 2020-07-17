@@ -11,8 +11,8 @@
 
       .cls-3 {
         fill: none;
-        stroke: rgba(228,235,246,0.5);
-        stroke-width: 1px;
+        stroke: rgba(228,235,246,0.25);
+        stroke-width: 0.7px;
         fill-rule: evenodd;
         shape-rendering: geometricPrecision;
       }
