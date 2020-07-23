@@ -1,0 +1,491 @@
+<svg id='Export_Group' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='1 1 2066 1211' >
+  <defs>
+    <linearGradient id="_linear-gradient" x1="685.4" x2="1384.6" y2="1211" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2c343a"/>
+      <stop offset="1" stop-color="#66737c"/>
+    </linearGradient>
+    <linearGradient id="_linear-gradient-2" x1="2054" x2="18" y1="76" y2="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d75b5b"/>
+      <stop offset="1" stop-color="#dba38d"/>
+    </linearGradient>
+    <style>
+      .ls-1{fill:url(#_linear-gradient)}.ls-2{fill:#49545b;opacity:.6}.ls-24,.ls-3{fill:#292b33}.ls-4{fill:url(#_linear-gradient-2)}.ls-5,.ls-6{font-size:28px}.ls-12,.ls-14,.ls-18,.ls-19,.ls-22,.ls-5,.ls-6,.ls-7,.ls-8{fill:#fff}.ls-12,.ls-20,.ls-22,.ls-24,.ls-5,.ls-6,.ls-7,.ls-8{font-family:&quot;Noto Sans JP&quot; font-weight: 500;}.ls-6,.ls-8{text-anchor:end}.ls-7,.ls-8{font-size:36px}.ls-9{opacity:.95}.ls-10{fill:#e4515d}.ls-11,.ls-23,.ls-34{fill:#00fca5}.ls-12{font-size:20px}.ls-13{opacity:.1}.ls-15{opacity:.67}.ls-16,.ls-21,.ls-25,.ls-29,.ls-30,.ls-32,.ls-33{fill:none}.ls-16,.ls-21,.ls-33{stroke:#00fca5}.ls-16,.ls-21,.ls-25,.ls-32,.ls-33{stroke-width:2px}.ls-17{opacity:.8}.ls-18,.ls-21,.ls-23,.ls-25,.ls-26,.ls-27,.ls-28,.ls-29,.ls-30,.ls-32,.ls-33{fill-rule:evenodd}.ls-19{opacity:.17}.ls-20,.ls-22,.ls-24{font-size:18px}.ls-20{opacity:.75;fill:#6f6f6f;text-anchor:middle}.ls-25{stroke:#6f7176}.ls-25,.ls-32,.ls-33{stroke-dasharray:8 4}.ls-27{fill:#73f7ac}.ls-28{fill:#d35b61}.ls-29,.ls-30{stroke:#73f7ac;stroke-width:1.5px}.ls-30{stroke:#d35b61}.ls-31,.ls-35{fill:#e84f59}.ls-32{stroke:#e84f59}.ls-34,.ls-35{opacity:.4}
+    </style>
+  </defs>
+  <g id="_Background_2" data-name="Background 2">
+    <rect id="_R_1_c_4" width="2066" height="1211" x="2" class="ls-1" data-name="R1c4" rx="25" ry="25"/>
+    <rect id="_R_1_c_5" width="2066" height="1211" x="2" class="ls-2" data-name="R1c5" rx="25" ry="25"/>
+    <path id="_R_2_c_2" d="M18 134h2036v1041a20 20 0 01-20 20H38a20 20 0 01-20-20V134z" class="ls-3" data-name="R2c2"/>
+    <path id="_R_2_c_3" d="M38 18h1996a20 20 0 0120 20v96H18V38a20 20 0 0120-20z" class="ls-4" data-name="R2c3"/>
+  </g>
+  <g id="_Top_Text_2" data-name="Top Text 2">
+    <text id="_SPDR_SP_500_ETF_c" x="54.6" y="108.9" class="ls-5" data-name="SPDR SP 500 ETF copy">
+      SPDR SP 500 ETF
+    </text>
+    <text id="__6.97_3.12_c" x="2017.6" y="108.9" class="ls-6" data-name="▼ 6.97 (3.12%) copy">
+      ▼ 6.97 (3.12%)
+    </text>
+    <text id="_SPY_c" x="56.4" y="70.2" class="ls-7" data-name="SPY copy">
+      SPY
+    </text>
+    <text id="__313.70_c" x="2018.4" y="70.2" class="ls-8" data-name="313.70 copy">
+      313.70
+    </text>
+  </g>
+  <g id="_Perform_Bars_New_2" class="ls-9" data-name="Perform Bars New 2">
+    <path id="_R_1183_c_11" d="M1829 470h154v29h-154a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-10" data-name="R1183c11"/>
+    <path id="_R_1183_c_10" d="M1829 423h36v29h-36a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-10" data-name="R1183c10"/>
+    <path id="_R_1183_c" d="M1829 377h36v29h-36a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-10" data-name="R1183 copy"/>
+    <path id="_R_1183_c_8" d="M1829 331h73v29h-73a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-10" data-name="R1183c8"/>
+    <path id="_R_1183_c_9" d="M1829 285h37v29h-37a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-10" data-name="R1183c9"/>
+    <path id="_R_1183_c_15" d="M1565 607h53v29h-53a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11" data-name="R1183c15"/>
+    <path id="_R_1183_c_14" d="M1565 562h53v29h-53a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11" data-name="R1183c14"/>
+    <path id="_R_1183_c_13" d="M1565 516h25v29h-25a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11" data-name="R1183c13"/>
+    <path d="M1565 470h25v29h-25a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11"/>
+    <path id="_R_1183_c_12" d="M1565 424h25v29h-25a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11" data-name="R1183c12"/>
+    <path id="_R_1183_c_16" d="M1565 378h82v29h-82a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11" data-name="R1183c16"/>
+    <path id="_R_1183_c_17" d="M1565 332h53v29h-53a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11" data-name="R1183c17"/>
+    <path id="_R_1183_c_18" d="M1565 286h25v29h-25a4 4 0 01-4-4v-21a4 4 0 014-4z" class="ls-11" data-name="R1183c18"/>
+  </g>
+  <g id="_Perform_Numbers_2" data-name="Perform Numbers 2">
+    <text id="__606.81" x="1574.6" y="628.9" class="ls-12" data-name="606.8">
+      606.81
+    </text>
+    <text id="__611.76" x="1574.6" y="582.9" class="ls-12" data-name="611.8">
+      611.76
+    </text>
+    <text id="__650.93" x="1574.6" y="536.9" class="ls-12" data-name="650.9">
+      650.93
+    </text>
+    <text id="__668.39" x="1574.6" y="490.9" class="ls-12" data-name="668.4">
+      668.39
+    </text>
+    <text id="__685.92" x="1574.6" y="444.9" class="ls-12" data-name="685.9">
+      685.92
+    </text>
+    <text id="__692.55" x="1574.6" y="398.9" class="ls-12" data-name="692.5">
+      692.55
+    </text>
+    <text id="__706.51" x="1574.6" y="352.9" class="ls-12" data-name="706.5">
+      706.51
+    </text>
+    <text id="__714.72" x="1574.6" y="307.9" class="ls-12" data-name="714.7">
+      714.72
+    </text>
+    <text id="__862.25" x="1838.6" y="490.9" class="ls-12" data-name="862.3">
+      862.25
+    </text>
+    <text id="__818.47" x="1838.6" y="444.9" class="ls-12" data-name="818.5">
+      818.47
+    </text>
+    <text id="__794.07" x="1838.6" y="398.9" class="ls-12" data-name="794.1">
+      794.07
+    </text>
+    <text id="__788.25" x="1838.6" y="352.9" class="ls-12" data-name="788.3">
+      788.25
+    </text>
+    <text id="__776.47" x="1838.6" y="306.9" class="ls-12" data-name="776.5">
+      776.47
+    </text>
+  </g>
+  <g id="_Perform_Text_2" data-name="Perform Text 2">
+    <text id="_Trending" x="1551.6" y="241.9" class="ls-12">
+      Trending
+    </text>
+    <text id="_since" x="1703.6" y="241.9" class="ls-12">
+      since
+    </text>
+    <text id="__11_days" x="1783.6" y="241.9" class="ls-12" data-name="11 days">
+      11 days
+    </text>
+    <text id="__20_" x="1784.6" y="181.9" class="ls-12" data-name="20 %">
+      20 %
+    </text>
+    <text id="_Search_levels_within" x="1552.6" y="181.9" class="ls-12" data-name="Search levels within">
+      Search levels within
+    </text>
+  </g>
+  <g id="_AI_Text_Buttons_2" class="ls-13" data-name="AI Text Buttons 2">
+    <rect id="_Ai_Text_Button_2" width="90" height="32" x="770" y="1084" class="ls-14" data-name="Ai Text Button 2" rx="16" ry="16"/>
+  </g>
+  <g id="_AI_Text_Buttons_2_Hi" class="ls-15" data-name="AI Text Buttons 2 Hi">
+    <rect id="_Ai_Text_Button_2-2" width="90" height="32" x="770" y="1084" class="ls-16" data-name="Ai Text Button 2" rx="16" ry="16"/>
+  </g>
+  <g id="_AI_Text_2" data-name="AI Text 2">
+    <text id="_The_current_bullish_trend_may_reverse_if_the_asset_closes_under" x="40.6" y="1106.9" class="ls-12" data-name="The current bullish trend may reverse if the asset closes under">
+      The current bullish trend may reverse if the asset closes under the key level of
+    </text>
+    <text id="_on_a_daily_basis." x="869.6" y="1106.9" class="ls-12" data-name="on a daily basis.">
+      on a daily basis.
+    </text>
+    <text id="__699.06" x="783.6" y="1106.9" class="ls-12" data-name="699.1">
+      699.06
+    </text>
+  </g>
+  <g id="_Aifincx_list_icon_c_2" class="ls-17" data-name="Aifincx_list_iconc2">
+    <path id="_C_1" d="M2413.2 356c-1.1 0-1.2.9-1.2 2s.1 2 1.2 2h18.6c1.1 0 1.2-.9 1.2-2s-.1-2-1.2-2h-18.6zm0 10c-1.1 0-1.2.9-1.2 2s.1 2 1.2 2h22.6c1.1 0 1.2-.9 1.2-2s-.1-2-1.2-2h-22.6zm22.6-16c1.1 0 1.2-.9 1.2-2s-.1-2-1.2-2h-22.6c-1.1 0-1.2.9-1.2 2s.1 2 1.2 2h22.6zm-32.6 6c-1.1 0-1.2.9-1.2 2s.1 2 1.2 2h3.6c1.1 0 1.2-.9 1.2-2s-.1-2-1.2-2h-3.6zm0 10c-1.1 0-1.2.9-1.2 2s.1 2 1.2 2h3.6c1.1 0 1.2-.9 1.2-2s-.1-2-1.2-2h-3.6zm0-20c-1.1 0-1.2.9-1.2 2s.1 2 1.2 2h3.6c1.1 0 1.2-.9 1.2-2s-.1-2-1.2-2h-3.6z" class="ls-18" data-name="CF1" transform="translate(-418 -185)"/>
+  </g>
+  <rect id="_Search_c" width="823" height="50" x="634" y="51" class="ls-19" data-name="Search copy" rx="25" ry="25"/>
+  <text id="_Search_for_Data_Dashboards_c" x="1061.7" y="82.3" class="ls-20" data-name="Search for Data &amp; Dashboards copy">
+    Search for Data &amp; Dashboards
+  </text>
+  <g id="_Perform_Buttons_2" class="ls-13" data-name="Perform Buttons 2">
+    <rect id="_R_4_c_19" width="109" height="40" x="1766" y="216" class="ls-14" data-name="R4c19" rx="20" ry="20"/>
+    <path id="_R_4_c_22" d="M2089 401a20 20 0 11-20 20 20 20 0 0120-20z" class="ls-18" data-name="R4c22" transform="translate(-418 -185)"/>
+    <rect id="_R_4_c_21" width="90" height="40" x="1761" y="156" class="ls-14" data-name="R4c21" rx="20" ry="20"/>
+  </g>
+  <g id="_Perform_Buttons_2_Hi" class="ls-15" data-name="Perform Buttons 2 Hi">
+    <rect id="_R_4_c_23" width="90" height="40" x="1761" y="156" class="ls-16" data-name="R4c23" rx="20" ry="20"/>
+    <path id="_R_4_c_25" d="M2089 401a20 20 0 11-20 20 20 20 0 0120-20z" class="ls-21" data-name="R4c25" transform="translate(-418 -185)"/>
+    <rect id="_R_4_c_24" width="109" height="40" x="1766" y="216" class="ls-16" data-name="R4c24" rx="20" ry="20"/>
+  </g>
+  <g id="_Numbers_2_c" class="ls-17" data-name="Numbers 2 copy">
+    <text id="__340.00" x="1459.7" y="181.3" class="ls-22" data-name="340">
+      340.00
+    </text>
+    <text id="__330.00" x="1459.7" y="231.3" class="ls-22" data-name="330">
+      330.00
+    </text>
+    <text id="__320.00" x="1459.7" y="283.3" class="ls-22" data-name="320">
+      320.00
+    </text>
+    <text id="__310.00" x="1459.7" y="333.3" class="ls-22" data-name="310">
+      310.00
+    </text>
+    <text id="__300.00" x="1459.7" y="383.3" class="ls-22" data-name="300">
+      300.00
+    </text>
+    <text id="__290.00" x="1459.7" y="434.3" class="ls-22" data-name="290">
+      290.00
+    </text>
+    <text id="__280.00" x="1459.7" y="486.3" class="ls-22" data-name="280">
+      280.00
+    </text>
+    <text id="__270.00" x="1459.7" y="536.3" class="ls-22" data-name="270">
+      270.00
+    </text>
+    <text id="__260.00" x="1459.7" y="586.3" class="ls-22" data-name="260">
+      260.00
+    </text>
+    <text id="__250.00" x="1459.7" y="638.3" class="ls-22" data-name="250">
+      250.00
+    </text>
+    <text id="__240.00" x="1459.7" y="690.3" class="ls-22" data-name="240">
+      240.00
+    </text>
+    <text id="__230.00" x="1459.7" y="740.3" class="ls-22" data-name="230">
+      230.00
+    </text>
+    <text id="__220.00" x="1459.7" y="790.3" class="ls-22" data-name="220">
+      220.00
+    </text>
+    <text id="__210.00" x="1459.7" y="840.3" class="ls-22" data-name="210">
+      210.00
+    </text>
+    <text id="__200.00" x="1459.7" y="891.3" class="ls-22" data-name="200">
+      200.00
+    </text>
+    <text id="__190.00" x="1459.7" y="943.3" class="ls-22" data-name="190">
+      190.00
+    </text>
+    <text id="__180.00" x="1459.7" y="993.3" class="ls-22" data-name="180">
+      180.00
+    </text>
+  </g>
+  <g id="_Up_Arrow" data-name="Up Arrow">
+    <path id="_RR2298_c_3" d="M2098.9 413.3v.2a2 2 0 01.1.5v14a2 2 0 01-4 0v-9.2l-11.5 11.4a2 2 0 01-2.8-2.8l11.4-11.4h-9.1a2 2 0 010-4h14a2 2 0 01.6.1h.1a2.2 2.2 0 01.5.3.7.7 0 00.1 0 2.1 2.1 0 01.3.5 2 2 0 01.3.4z" class="ls-23" data-name="Rounded R2298c3" transform="translate(-418 -185)"/>
+  </g>
+  <g id="_Current_Number_2" data-name="Current Number 2">
+    <rect id="_R_4_c_16" width="70" height="29" x="1451" y="397" class="ls-14" data-name="R4c16" rx="8" ry="8"/>
+    <text id="__292.57" x="1457.7" y="417.3" class="ls-24" data-name="292.6">
+      292.57
+    </text>
+    <path id="_Shape_1682_c_22" d="M1869 595v2H457" class="ls-25" data-name="Shape 1682c22" transform="translate(-418 -186)"/>
+  </g>
+  <g id="_AiFinCx_Graph_100_med_0.5">
+    <g id="_group">
+      <g id="_group-2" data-name="group">
+        <g id="_group-3" data-name="group">
+          <path id="_C_2" d="M471.7 1205v-181m263.7 181v-181m263.8 181v-181m263.8 181v-181m263.6 181v-181m263.7 181v-181" class="ls-26" data-name="CF2" transform="translate(-418 -185)"/>
+          <path id="_C_3" d="M419 1205h1424" class="ls-26" data-name="CF3" transform="translate(-418 -185)"/>
+        </g>
+        <g id="_group-4" data-name="group">
+          <path id="_C_4" d="M419 1205h1424m-1424-33.3h1424m-1424-33.4h1424M419 1105h1424m-1424-33.4h1424m-1424-33.3h1424" class="ls-26" data-name="CF4" transform="translate(-418 -185)"/>
+          <path id="_C_5" d="M419 1024v181" class="ls-26" data-name="CF5" transform="translate(-418 -185)"/>
+        </g>
+        <path id="_C_6" d="M468.4 1205h6.6v-68.9h-6.6v68.9z" class="ls-27" data-name="CF6" transform="translate(-418 -185)"/>
+        <path id="_C_7" d="M481.7 1205h6.5v-87.1h-6.5v87.1z" class="ls-28" data-name="CF7" transform="translate(-418 -185)"/>
+        <path id="_C_8" d="M494.9 1205h6.5v-103H495v103zm13 0h6.7v-74h-6.8z" class="ls-27" data-name="CF8" transform="translate(-418 -185)"/>
+        <path id="_C_9" d="M521.2 1205h6.6v-113h-6.6v113z" class="ls-28" data-name="CF9" transform="translate(-418 -185)"/>
+        <path id="_C_10" d="M534.4 1205h6.5v-64.7h-6.5v64.7z" class="ls-27" data-name="CF10" transform="translate(-418 -185)"/>
+        <path id="_C_11" d="M547.6 1205h6.5v-79.6h-6.5v79.6zm13.2 0h6.5v-80.5h-6.5v80.5zm13 0h6.7v-82.5H574v82.5z" class="ls-28" data-name="CF11" transform="translate(-418 -185)"/>
+        <path id="_C_12" d="M587.1 1205h6.7v-93.8H587v93.8z" class="ls-27" data-name="CF12" transform="translate(-418 -185)"/>
+        <path id="_C_13" d="M600.3 1205h6.5v-88.8h-6.5v88.8zm13.2 0h6.6v-127.1h-6.6V1205z" class="ls-28" data-name="CF13" transform="translate(-418 -185)"/>
+        <path id="_C_14" d="M626.7 1205h6.6v-115.5h-6.6V1205z" class="ls-27" data-name="CF14" transform="translate(-418 -185)"/>
+        <path id="_C_15" d="M640 1205h6.5v-136h-6.7z" class="ls-28" data-name="CF15" transform="translate(-418 -185)"/>
+        <path id="_C_16" d="M653 1205h6.7v-157H653v157z" class="ls-27" data-name="CF16" transform="translate(-418 -185)"/>
+        <path id="_C_17" d="M666.2 1205h6.6v-172.4h-6.6V1205z" class="ls-28" data-name="CF17" transform="translate(-418 -185)"/>
+        <path id="_C_18" d="M679.4 1205h6.6v-166.7h-6.6V1205z" class="ls-27" data-name="CF18" transform="translate(-418 -185)"/>
+        <path id="_C_19" d="M692.5 1205h6.7v-156.4h-6.5z" class="ls-28" data-name="CF19" transform="translate(-418 -185)"/>
+        <path id="_C_20" d="M705.7 1205h6.7v-167.2h-6.7V1205zm13.3 0h6.6v-169.4H719V1205z" class="ls-27" data-name="CF20" transform="translate(-418 -185)"/>
+        <path id="_C_21" d="M732.2 1205h6.5v-172.3h-6.4z" class="ls-28" data-name="CF21" transform="translate(-418 -185)"/>
+        <path id="_C_22" d="M745.4 1205h6.5v-133.7h-6.5V1205z" class="ls-27" data-name="CF22" transform="translate(-418 -185)"/>
+        <path id="_C_23" d="M758.6 1205h6.5v-113.7h-6.5V1205z" class="ls-28" data-name="CF23" transform="translate(-418 -185)"/>
+        <path id="_C_24" d="M771.7 1205h6.6v-85.2h-6.6v85.2z" class="ls-27" data-name="CF24" transform="translate(-418 -185)"/>
+        <path id="_C_25" d="M784.9 1205h6.6v-150.8H785V1205zm13.2 0h6.5v-110.4h-6.5V1205z" class="ls-28" data-name="CF25" transform="translate(-418 -185)"/>
+        <path id="_C_26" d="M811.3 1205h6.5v-96.5h-6.5v96.5z" class="ls-27" data-name="CF26" transform="translate(-418 -185)"/>
+        <path id="_C_27" d="M824.5 1205h6.6v-114.2h-6.6V1205z" class="ls-28" data-name="CF27" transform="translate(-418 -185)"/>
+        <path id="_C_28" d="M837.6 1205h6.7v-106.3h-6.8z" class="ls-27" data-name="CF28" transform="translate(-418 -185)"/>
+        <path id="_C_29" d="M850.8 1205h6.7v-135.5h-6.7V1205z" class="ls-28" data-name="CF29" transform="translate(-418 -185)"/>
+        <path id="_C_30" d="M864 1205h6.6v-107H864v107zm13.2 0h6.6v-113.5h-6.6V1205zm13.2 0h6.6v-87.8h-6.6v87.8zm13.1 0h6.7v-101h-6.7v101z" class="ls-27" data-name="CF30" transform="translate(-418 -185)"/>
+        <path id="_C_31" d="M916.7 1205h6.7v-89.2h-6.7v89.2z" class="ls-28" data-name="CF31" transform="translate(-418 -185)"/>
+        <path id="_C_32" d="M930 1205h6.5v-113.5h-6.6V1205zm13.2 0h6.5v-96.5h-6.5v96.5z" class="ls-27" data-name="CF32" transform="translate(-418 -185)"/>
+        <path id="_C_33" d="M956.4 1205h6.5v-79.4h-6.5v79.4zm13.2 0h6.5v-106.8h-6.6z" class="ls-28" data-name="CF33" transform="translate(-418 -185)"/>
+        <path id="_C_34" d="M982.7 1205h6.6v-56.9h-6.6v56.9z" class="ls-27" data-name="CF34" transform="translate(-418 -185)"/>
+        <path id="_C_35" d="M995.9 1205h6.5v-87.6H996v87.6z" class="ls-28" data-name="CF35" transform="translate(-418 -185)"/>
+        <path id="_C_36" d="M1009 1205h6.6v-64.7h-6.5v64.7zm13.2 0h6.6v-62.6h-6.5z" class="ls-27" data-name="CF36" transform="translate(-418 -185)"/>
+        <path id="_C_37" d="M1035.4 1205h6.7v-78.8h-6.7v78.8z" class="ls-28" data-name="CF37" transform="translate(-418 -185)"/>
+        <path id="_C_38" d="M1048.6 1205h6.7v-69.8h-6.7v69.8zm13.2 0h6.5v-77.4h-6.4z" class="ls-27" data-name="CF38" transform="translate(-418 -185)"/>
+        <path id="_C_39" d="M1075 1205h6.6v-71h-6.6v71z" class="ls-28" data-name="CF39" transform="translate(-418 -185)"/>
+        <path id="_C_40" d="M1088.2 1205h6.6v-40.9h-6.6v40.9zm13.1 0h6.7v-59.3h-6.7v59.3zm13.2 0h6.7v-64h-6.7v64zm13.2 0h6.6v-59.3h-6.6v59.3zm13.2 0h6.6v-53.6h-6.6v53.6zm13.2 0h6.6v-55h-6.5v55z" class="ls-27" data-name="CF40" transform="translate(-418 -185)"/>
+        <path id="_C_41" d="M1167.2 1205h6.7v-68.2h-6.8zm13.2 0h6.7v-102.1h-6.6V1205z" class="ls-28" data-name="CF41" transform="translate(-418 -185)"/>
+        <path id="_C_42" d="M1193.7 1205h6.5v-83h-6.5v83zm13.2 0h6.5v-72h-6.5v72zm13.2 0h6.5v-61.2h-6.5v61.2z" class="ls-27" data-name="CF42" transform="translate(-418 -185)"/>
+        <path id="_C_43" d="M1233.2 1205h6.6v-53.5h-6.6v53.5z" class="ls-28" data-name="CF43" transform="translate(-418 -185)"/>
+        <path id="_C_44" d="M1246.4 1205h6.7v-58.8h-6.7v58.8z" class="ls-27" data-name="CF44" transform="translate(-418 -185)"/>
+        <path id="_C_45" d="M1259.6 1205h6.5v-67h-6.5v67z" class="ls-28" data-name="CF45" transform="translate(-418 -185)"/>
+        <path id="_C_46" d="M1272.8 1205h6.5v-43.3h-6.5v43.3z" class="ls-27" data-name="CF46" transform="translate(-418 -185)"/>
+        <path id="_C_47" d="M1286 1205h6.6v-50.5h-6.6v50.5z" class="ls-28" data-name="CF47" transform="translate(-418 -185)"/>
+        <path id="_C_48" d="M1299.2 1205h6.6v-70.9h-6.7z" class="ls-27" data-name="CF48" transform="translate(-418 -185)"/>
+        <path id="_C_49" d="M1312.3 1205h6.7v-62.7h-6.7v62.7z" class="ls-28" data-name="CF49" transform="translate(-418 -185)"/>
+        <path id="_C_50" d="M1325.5 1205h6.6v-74.3h-6.6v74.3zm13.2 0h6.6v-43h-6.6v43zm13.1 0h6.7v-51.4h-6.6zm13.2 0h6.7v-44h-6.7v44z" class="ls-27" data-name="CF50" transform="translate(-418 -185)"/>
+        <path id="_C_51" d="M1378.2 1205h6.7v-55.5h-6.7v55.5z" class="ls-28" data-name="CF51" transform="translate(-418 -185)"/>
+        <path id="_C_52" d="M1391.5 1205h6.5v-58.6h-6.4zm13.2 0h6.5v-45.5h-6.5v45.5zm13.2 0h6.5v-44.4h-6.5v44.4zm13 0h6.7v-63h-6.6v63z" class="ls-27" data-name="CF52" transform="translate(-418 -185)"/>
+        <path id="_C_53" d="M1444.2 1205h6.6v-79.7h-6.6v79.7z" class="ls-28" data-name="CF53" transform="translate(-418 -185)"/>
+        <path id="_C_54" d="M1457.4 1205h6.5v-85.8h-6.5v85.8zm13.2 0h6.5v-82.8h-6.5v82.8zm13.2 0h6.5v-79.8h-6.5v79.8zm13 0h6.8v-53.9h-6.8zm13.3 0h6.7v-44.2h-6.7v44.2z" class="ls-27" data-name="CF54" transform="translate(-418 -185)"/>
+        <path id="_C_55" d="M1523.3 1205h6.5v-60.4h-6.5v60.4z" class="ls-28" data-name="CF55" transform="translate(-418 -185)"/>
+        <path id="_C_56" d="M1536.5 1205h6.6v-45.8h-6.6v45.8zm13.2 0h6.6v-48.9h-6.6v48.9z" class="ls-27" data-name="CF56" transform="translate(-418 -185)"/>
+        <path id="_C_57" d="M1562.8 1205h6.7v-81.8h-6.7v81.8z" class="ls-28" data-name="CF57" transform="translate(-418 -185)"/>
+        <path id="_C_58" d="M1576 1205h6.7v-62.8h-6.7v62.8z" class="ls-27" data-name="CF58" transform="translate(-418 -185)"/>
+        <path id="_C_59" d="M1589.2 1205h6.6v-78.3h-6.6v78.3z" class="ls-28" data-name="CF59" transform="translate(-418 -185)"/>
+        <path id="_C_60" d="M1602.4 1205h6.6v-54h-6.6v54zm13.2 0h6.6v-52.3h-6.5v52.3zm13.3 0h6.5v-52.5h-6.7zm13 0h6.7v-47.5h-6.6v47.5zm13.3 0h6.5v-44h-6.5v44z" class="ls-27" data-name="CF60" transform="translate(-418 -185)"/>
+        <path id="_C_61" d="M1668.4 1205h6.5v-51.3h-6.5v51.3z" class="ls-28" data-name="CF61" transform="translate(-418 -185)"/>
+        <path id="_C_62" d="M1681.5 1205h6.6v-50h-6.5zm13.2 0h6.6v-66.1h-6.6v66.1zm13.2 0h6.7v-50.6h-6.7v50.6z" class="ls-27" data-name="CF62" transform="translate(-418 -185)"/>
+        <path id="_C_63" d="M1721 1205h6.6v-78h-6.5v78z" class="ls-28" data-name="CF63" transform="translate(-418 -185)"/>
+        <path id="_C_64" d="M1734.3 1205h6.5v-95.8h-6.5v95.8zm13.2 0h6.6v-76.5h-6.6v76.5z" class="ls-27" data-name="CF64" transform="translate(-418 -185)"/>
+        <path id="_C_65" d="M1760.6 1205h6.7v-62.4h-6.7v62.4z" class="ls-28" data-name="CF65" transform="translate(-418 -185)"/>
+        <path id="_C_66" d="M1773.8 1205h6.7v-48.1h-6.7v48.1z" class="ls-27" data-name="CF66" transform="translate(-418 -185)"/>
+      </g>
+    </g>
+  </g>
+  <g id="_AiFinCx_Graph_OHCL_100">
+    <g id="_group-5" data-name="group">
+      <g id="_group-6" data-name="group">
+        <g id="_group-7" data-name="group">
+          <path id="_C_2-2" d="M471.8 1019V355m269 664V355m269.2 664V355m269.2 664V355m269 664V355m269 664V355" class="ls-26" data-name="CF2" transform="translate(-418 -185)"/>
+          <path id="_C_3-2" d="M418 1019h1453" class="ls-26" data-name="CF3" transform="translate(-418 -185)"/>
+        </g>
+        <g id="_group-8" data-name="group">
+          <path id="_C_4-2" d="M418 939h1453M418 810.1h1453m-1453-129h1453M418 552.5h1453M418 423.5h1453" class="ls-26" data-name="CF4" transform="translate(-418 -185)"/>
+          <path id="_C_5-2" d="M418 355v664" class="ls-26" data-name="CF5" transform="translate(-418 -185)"/>
+        </g>
+        <path id="_C_6-2" d="M467.3 708.1h9.1v-41.8h-9z" class="ls-27" data-name="CF6" transform="translate(-418 -185)"/>
+        <path id="_C_7-2" d="M480.7 758.5h9.1v-57.9h-9v57.9zm13.5-71.6h9v-54h-9v54z" class="ls-28" data-name="CF7" transform="translate(-418 -185)"/>
+        <path id="_C_8-2" d="M507.7 686h9v-59.3h-9V686z" class="ls-27" data-name="CF8" transform="translate(-418 -185)"/>
+        <path id="_C_9-2" d="M521.2 658h9v-34h-9v34z" class="ls-28" data-name="CF9" transform="translate(-418 -185)"/>
+        <path id="_C_10-2" d="M534.5 674.1h9.1v-6.4h-9v6.4z" class="ls-27" data-name="CF10" transform="translate(-418 -185)"/>
+        <path id="_C_11-2" d="M548 728h9v-26.4h-9V728z" class="ls-28" data-name="CF11" transform="translate(-418 -185)"/>
+        <path id="_C_12-2" d="M561.5 802.2h9v-1.7h-9v1.7z" class="ls-27" data-name="CF12" transform="translate(-418 -185)"/>
+        <path id="_C_13-2" d="M575 759.2h9v-18.4h-9v18.4z" class="ls-28" data-name="CF13" transform="translate(-418 -185)"/>
+        <path id="_C_14-2" d="M588.4 799.5h9V773h-8.8zm13.4 108.8h9v-30.7h-9v30.7z" class="ls-27" data-name="CF14" transform="translate(-418 -185)"/>
+        <path id="_C_15-2" d="M615.3 860.2h9v-29.8h-9v29.8z" class="ls-28" data-name="CF15" transform="translate(-418 -185)"/>
+        <path id="_C_16-2" d="M628.8 956.8h9v-20.9h-9v20.9z" class="ls-27" data-name="CF16" transform="translate(-418 -185)"/>
+        <path id="_C_17-2" d="M642.2 943h9v-25.5h-9V943zm13.5 20.6h9v-20h-9v20zm13.4-16.2h9v-10h-9v10z" class="ls-28" data-name="CF17" transform="translate(-418 -185)"/>
+        <path id="_C_18-2" d="M682.6 968h9v-49.3h-9V968zm13.4-.7h9.1v-2h-9.2z" class="ls-27" data-name="CF18" transform="translate(-418 -185)"/>
+        <path id="_C_19-2" d="M709.5 931h9v-15h-9v15z" class="ls-28" data-name="CF19" transform="translate(-418 -185)"/>
+        <path id="_C_20-2" d="M723 922.6h9v-11h-9v11z" class="ls-27" data-name="CF20" transform="translate(-418 -185)"/>
+        <path id="_C_21-2" d="M736.5 914.5h9v-36.6h-9.2z" class="ls-28" data-name="CF21" transform="translate(-418 -185)"/>
+        <path id="_C_22-2" d="M749.8 911h9v-8.1h-9v8z" class="ls-27" data-name="CF22" transform="translate(-418 -185)"/>
+        <path id="_C_23-2" d="M763.3 903.3h9V881h-9v22.3z" class="ls-28" data-name="CF23" transform="translate(-418 -185)"/>
+        <path id="_C_24-2" d="M776.8 889.7h9v-8h-9v8zm13.3 38.1h9.1v-12.2h-9z" class="ls-27" data-name="CF24" transform="translate(-418 -185)"/>
+        <path id="_C_25-2" d="M803.6 931.4h9v-19.5h-9v19.5z" class="ls-28" data-name="CF25" transform="translate(-418 -185)"/>
+        <path id="_C_26-2" d="M817.1 923.4h9v-10.2h-9v10.2z" class="ls-27" data-name="CF26" transform="translate(-418 -185)"/>
+        <path id="_C_27-2" d="M830.6 892.5h9v-26.4h-9v26.4z" class="ls-28" data-name="CF27" transform="translate(-418 -185)"/>
+        <path id="_C_28-2" d="M844 866.8h9v-31h-9v31z" class="ls-27" data-name="CF28" transform="translate(-418 -185)"/>
+        <path id="_C_29-2" d="M857.5 857h9v-11.3h-9v11.4z" class="ls-28" data-name="CF29" transform="translate(-418 -185)"/>
+        <path id="_C_30-2" d="M870.9 844.4h9v-8.6h-9v8.6z" class="ls-27" data-name="CF30" transform="translate(-418 -185)"/>
+        <path id="_C_31-2" d="M884.4 848.5h9v-16.3h-9v16.3zm13.4-39.7h9.1v-24h-9v24zm13.5-4.2h9v-6h-9v6zm13.5-18.7h9v-8.5h-8.9z" class="ls-28" data-name="CF31" transform="translate(-418 -185)"/>
+        <path id="_C_32-2" d="M938.2 766.7h9v-6.5h-9v6.5zm13.4 14h9.1v-3h-9v3zm13.5 46h9v-33.6h-9v33.6z" class="ls-27" data-name="CF32" transform="translate(-418 -185)"/>
+        <path id="_C_33-2" d="M978.6 803.6h9v-9.7h-9v9.7z" class="ls-28" data-name="CF33" transform="translate(-418 -185)"/>
+        <path id="_C_34-2" d="M992 796.6h9v-7.3h-9v7.3z" class="ls-27" data-name="CF34" transform="translate(-418 -185)"/>
+        <path id="_C_35-2" d="M1005.4 793.2h9.1v-16h-9v16z" class="ls-28" data-name="CF35" transform="translate(-418 -185)"/>
+        <path id="_C_36-2" d="M1019 769.1h9V764h-9v5.2zm13.4 23.1h9v-35.1h-9.1z" class="ls-27" data-name="CF36" transform="translate(-418 -185)"/>
+        <path id="_C_37-2" d="M1045.9 765.2h9v-15h-9v15z" class="ls-28" data-name="CF37" transform="translate(-418 -185)"/>
+        <path id="_C_38-2" d="M1059.3 747.1h9V743h-9v4.2zm13.5 40.5h9v-11.8h-9.1z" class="ls-27" data-name="CF38" transform="translate(-418 -185)"/>
+        <path id="_C_39-2" d="M1086.2 794h9v-20.9h-9v21zm13.5-33.4h9v-1.1h-9v1.1z" class="ls-28" data-name="CF39" transform="translate(-418 -185)"/>
+        <path id="_C_40-2" d="M1113.1 750.8h9v-2.4h-9v2.4z" class="ls-27" data-name="CF40" transform="translate(-418 -185)"/>
+        <path id="_C_41-2" d="M1126.5 733.7h9v-.2h-8.9zm13.5-11.8h9v-7h-9v7zm13.5 1.4h9V703h-9v20.4z" class="ls-28" data-name="CF41" transform="translate(-418 -185)"/>
+        <path id="_C_42-2" d="M1167 732.3h9v-35h-9v35zm13.4 17.5h9V729h-9v20.8z" class="ls-27" data-name="CF42" transform="translate(-418 -185)"/>
+        <path id="_C_43-2" d="M1193.9 758.6h9V735h-9v23.7zm13.4-4.4h9V727h-9v27.2zm13.4-47.2h9v-7h-9v7z" class="ls-28" data-name="CF43" transform="translate(-418 -185)"/>
+        <path id="_C_44-2" d="M1234.2 703.6h9v-5.7h-9v5.7z" class="ls-27" data-name="CF44" transform="translate(-418 -185)"/>
+        <path id="_C_45-2" d="M1247.7 686h9v-11.3h-9V686z" class="ls-28" data-name="CF45" transform="translate(-418 -185)"/>
+        <path id="_C_46-2" d="M1261.2 690.8h8.9v-17.3h-8.8z" class="ls-27" data-name="CF46" transform="translate(-418 -185)"/>
+        <path id="_C_47-2" d="M1274.5 694h9v-7.7h-9v7.7z" class="ls-28" data-name="CF47" transform="translate(-418 -185)"/>
+        <path id="_C_48-2" d="M1288 688.3h9v-27.4h-9v27.4z" class="ls-27" data-name="CF48" transform="translate(-418 -185)"/>
+        <path id="_C_49-2" d="M1301.5 692.5h9v-11.3h-9v11.3zm13.5-2h8.9v-5.9h-9v6zm13.4-9.3h9v-17.7h-9v17.7zm13.4-13h9v-11.4h-9v11.3zm13.5-14.2h9v-8h-9v8zm13.5-12.7h9v-2.8h-9.2z" class="ls-28" data-name="CF49" transform="translate(-418 -185)"/>
+        <path id="_C_50-2" d="M1382.2 650h9v-8.8h-9v8.8z" class="ls-27" data-name="CF50" transform="translate(-418 -185)"/>
+        <path id="_C_51-2" d="M1395.7 642h9v-24.5h-9V642zm13.5-22.8h9v-14.6h-9.1zm13.3-8.6h9.1v-19.2h-9v19.2zM1436 578h9v-8.5h-9v8.5z" class="ls-28" data-name="CF51" transform="translate(-418 -185)"/>
+        <path id="_C_52-2" d="M1449.5 662h9v-61.4h-9V662zm13.3-11.7h9.1v-22.4h-9z" class="ls-27" data-name="CF52" transform="translate(-418 -185)"/>
+        <path id="_C_53-2" d="M1476.3 674.7h9.1V631h-9v43.7z" class="ls-28" data-name="CF53" transform="translate(-418 -185)"/>
+        <path id="_C_54-2" d="M1489.8 601.2h9v-6.5h-9v6.5zm13.5-5.8h9V590h-9v5.3z" class="ls-27" data-name="CF54" transform="translate(-418 -185)"/>
+        <path id="_C_55-2" d="M1516.8 598.2h9v-7.5h-9v7.5z" class="ls-28" data-name="CF55" transform="translate(-418 -185)"/>
+        <path id="_C_56-2" d="M1530.2 591.6h9v-19.2h-9v19.2z" class="ls-27" data-name="CF56" transform="translate(-418 -185)"/>
+        <path id="_C_57-2" d="M1543.6 591.6h9V570h-9v21.6zm13.5-34.8h9v-3.2h-9v3.2z" class="ls-28" data-name="CF57" transform="translate(-418 -185)"/>
+        <path id="_C_58-2" d="M1570.6 591.6h9V560h-9v31.5z" class="ls-27" data-name="CF58" transform="translate(-418 -185)"/>
+        <path id="_C_59-2" d="M1584 591.7h9v-16.2h-9v16.2z" class="ls-28" data-name="CF59" transform="translate(-418 -185)"/>
+        <path id="_C_60-2" d="M1597.5 620.2h9V578h-8.9z" class="ls-27" data-name="CF60" transform="translate(-418 -185)"/>
+        <path id="_C_61-2" d="M1610.9 622h9v-20.2h-9v20.1zm13.4-20.2h9.1v-34h-9v34zm13.5-35.6h9.1v-21.3h-9v21.3z" class="ls-28" data-name="CF61" transform="translate(-418 -185)"/>
+        <path id="_C_62-2" d="M1651.3 531.1h9v-6.5h-9v6.5z" class="ls-27" data-name="CF62" transform="translate(-418 -185)"/>
+        <path id="_C_63-2" d="M1664.8 505h9v-22.8h-9V505z" class="ls-28" data-name="CF63" transform="translate(-418 -185)"/>
+        <path id="_C_64-2" d="M1678.2 496.3h9v-12h-9v12z" class="ls-27" data-name="CF64" transform="translate(-418 -185)"/>
+        <path id="_C_65-2" d="M1691.6 485h9v-15.5h-9V485zm13.5-31.7h9v-2.1h-9v2zm13.5-1.4h9v-16.5h-9V452z" class="ls-28" data-name="CF65" transform="translate(-418 -185)"/>
+        <path id="_C_66-2" d="M1732 482.5h9v-72.6h-9v72.6z" class="ls-27" data-name="CF66" transform="translate(-418 -185)"/>
+        <path id="_C_67" d="M1745.5 504h9v-36.7h-9z" class="ls-28" data-name="CF67" transform="translate(-418 -185)"/>
+        <path id="_C_68" d="M1758.9 463.8h9v-8.5h-9v8.5z" class="ls-27" data-name="CF68" transform="translate(-418 -185)"/>
+        <path id="_C_69" d="M1772.4 487.5h9v-8.1h-9v8z" class="ls-28" data-name="CF69" transform="translate(-418 -185)"/>
+        <path id="_C_70" d="M471.8 709.7v-69.6" class="ls-29" data-name="CF70" transform="translate(-418 -185)"/>
+        <path id="_C_71" d="M485.3 761.8v-63.9m13.5 9.2v-75.5" class="ls-30" data-name="CF71" transform="translate(-418 -185)"/>
+        <path id="_C_72" d="M512.2 701.3v-94.1" class="ls-29" data-name="CF72" transform="translate(-418 -185)"/>
+        <path id="_C_73" d="M525.6 672.8v-50.5" class="ls-30" data-name="CF73" transform="translate(-418 -185)"/>
+        <path id="_C_74" d="M539 687.2v-49.5" class="ls-29" data-name="CF74" transform="translate(-418 -185)"/>
+        <path id="_C_75" d="M552.5 739.3v-45.6" class="ls-30" data-name="CF75" transform="translate(-418 -185)"/>
+        <path id="_C_76" d="M565.9 803.7v-52.4" class="ls-29" data-name="CF76" transform="translate(-418 -185)"/>
+        <path id="_C_77" d="M579.5 803.7v-64" class="ls-30" data-name="CF77" transform="translate(-418 -185)"/>
+        <path id="_C_78" d="M592.9 816.5v-53m13.6 147.2v-84.4" class="ls-29" data-name="CF78" transform="translate(-418 -185)"/>
+        <path id="_C_79" d="M619.8 906.4v-79.1" class="ls-30" data-name="CF79" transform="translate(-418 -185)"/>
+        <path id="_C_80" d="M633.3 958.3v-74.7" class="ls-29" data-name="CF80" transform="translate(-418 -185)"/>
+        <path id="_C_81" d="M646.8 966.3v-60.5m13.3 80v-56.6m13.5 35.6v-52.1" class="ls-30" data-name="CF81" transform="translate(-418 -185)"/>
+        <path id="_C_82" d="M687 970.5v-56m13.6 74.3V952" class="ls-29" data-name="CF82" transform="translate(-418 -185)"/>
+        <path id="_C_83" d="M714 938.2v-23.3" class="ls-30" data-name="CF83" transform="translate(-418 -185)"/>
+        <path id="_C_84" d="M727.4 932v-43.7" class="ls-29" data-name="CF84" transform="translate(-418 -185)"/>
+        <path id="_C_85" d="M740.9 915.2v-40.7" class="ls-30" data-name="CF85" transform="translate(-418 -185)"/>
+        <path id="_C_86" d="M754.4 914.5v-29" class="ls-29" data-name="CF86" transform="translate(-418 -185)"/>
+        <path id="_C_87" d="M767.8 906.7v-28.2" class="ls-30" data-name="CF87" transform="translate(-418 -185)"/>
+        <path id="_C_88" d="M781.3 894.8v-30m13.4 70.3v-33" class="ls-29" data-name="CF88" transform="translate(-418 -185)"/>
+        <path id="_C_89" d="M808.1 934v-23" class="ls-30" data-name="CF89" transform="translate(-418 -185)"/>
+        <path id="_C_90" d="M821.6 933.5v-26.8" class="ls-29" data-name="CF90" transform="translate(-418 -185)"/>
+        <path id="_C_91" d="M835.1 898v-37.5" class="ls-30" data-name="CF91" transform="translate(-418 -185)"/>
+        <path id="_C_92" d="M848.6 868.1v-34" class="ls-29" data-name="CF92" transform="translate(-418 -185)"/>
+        <path id="_C_93" d="M862 866.3v-24" class="ls-30" data-name="CF93" transform="translate(-418 -185)"/>
+        <path id="_C_94" d="M875.4 853.5v-22.3" class="ls-29" data-name="CF94" transform="translate(-418 -185)"/>
+        <path id="_C_95" d="M888.9 854.8V830m13.4-16v-32.4m13.6 30.5v-24m13.3 9.3V771" class="ls-30" data-name="CF95" transform="translate(-418 -185)"/>
+        <path id="_C_96" d="M942.8 784.2v-26.4m13.4 23.5v-19.5m13.4 72.1v-44" class="ls-29" data-name="CF96" transform="translate(-418 -185)"/>
+        <path id="_C_97" d="M983.1 808.1v-21.5" class="ls-30" data-name="CF97" transform="translate(-418 -185)"/>
+        <path id="_C_98" d="M996.5 799v-25" class="ls-29" data-name="CF98" transform="translate(-418 -185)"/>
+        <path id="_C_99" d="M1010 802.3v-27" class="ls-30" data-name="CF99" transform="translate(-418 -185)"/>
+        <path id="_C_100" d="M1023.4 773.8v-12.6m13.5 32v-36.1" class="ls-29" data-name="CF100" transform="translate(-418 -185)"/>
+        <path id="_C_101" d="M1050.4 770.8v-27.5" class="ls-30" data-name="CF101" transform="translate(-418 -185)"/>
+        <path id="_C_102" d="M1063.8 759v-16.4m13.4 51.3V763" class="ls-29" data-name="CF102" transform="translate(-418 -185)"/>
+        <path id="_C_103" d="M1090.7 796.8V772m13.5-8.4v-19.4" class="ls-30" data-name="CF103" transform="translate(-418 -185)"/>
+        <path id="_C_104" d="M1117.7 756v-17.7" class="ls-29" data-name="CF104" transform="translate(-418 -185)"/>
+        <path id="_C_105" d="M1131 742V728m13.5 1.5v-15.6m13.5 11v-30" class="ls-30" data-name="CF105" transform="translate(-418 -185)"/>
+        <path id="_C_106" d="M1171.5 732.5v-39.3m13.4 73.4v-49.7" class="ls-29" data-name="CF106" transform="translate(-418 -185)"/>
+        <path id="_C_107" d="M1198.3 770.7v-35.9m13.5 21.8v-30.9m13.5-13.6v-19.3" class="ls-30" data-name="CF107" transform="translate(-418 -185)"/>
+        <path id="_C_108" d="M1238.6 704.5V684" class="ls-29" data-name="CF108" transform="translate(-418 -185)"/>
+        <path id="_C_109" d="M1252.2 686.3v-14.8" class="ls-30" data-name="CF109" transform="translate(-418 -185)"/>
+        <path id="_C_110" d="M1265.6 694.5V669" class="ls-29" data-name="CF110" transform="translate(-418 -185)"/>
+        <path id="_C_111" d="M1279.2 700.2v-15.6" class="ls-30" data-name="CF111" transform="translate(-418 -185)"/>
+        <path id="_C_112" d="M1292.5 691.7v-31.8" class="ls-29" data-name="CF112" transform="translate(-418 -185)"/>
+        <path id="_C_113" d="M1306 723.9v-42.7m13.5 9.4v-30m13.3 31.5V660m13.5 10.8V654m13.5 16.7v-25.2m13.5 2.2V633" class="ls-30" data-name="CF113" transform="translate(-418 -185)"/>
+        <path id="_C_114" d="M1386.8 659.6v-29.2" class="ls-29" data-name="CF114" transform="translate(-418 -185)"/>
+        <path id="_C_115" d="M1400.1 645.7v-32.3m13.5 16.9v-27m13.5 8.7v-27.2m13.5-2.6v-24.8" class="ls-30" data-name="CF115" transform="translate(-418 -185)"/>
+        <path id="_C_116" d="M1454 663v-73.3m13.4 88.7V619" class="ls-29" data-name="CF116" transform="translate(-418 -185)"/>
+        <path id="_C_117" d="M1480.9 681v-55.7" class="ls-30" data-name="CF117" transform="translate(-418 -185)"/>
+        <path id="_C_118" d="M1494.3 627.7v-37.4m13.5 11v-19.7" class="ls-29" data-name="CF118" transform="translate(-418 -185)"/>
+        <path id="_C_119" d="M1521.3 603.6v-14.9" class="ls-30" data-name="CF119" transform="translate(-418 -185)"/>
+        <path id="_C_120" d="M1534.7 604.2v-34" class="ls-29" data-name="CF120" transform="translate(-418 -185)"/>
+        <path id="_C_121" d="M1548.1 594.3v-26.1m13.5-7.1v-25.6" class="ls-30" data-name="CF121" transform="translate(-418 -185)"/>
+        <path id="_C_122" d="M1575 604.9v-55.6" class="ls-29" data-name="CF122" transform="translate(-418 -185)"/>
+        <path id="_C_123" d="M1588.6 612v-38.5" class="ls-30" data-name="CF123" transform="translate(-418 -185)"/>
+        <path id="_C_124" d="M1602 623.9v-47.7" class="ls-29" data-name="CF124" transform="translate(-418 -185)"/>
+        <path id="_C_125" d="M1615.5 640.8V601m13.4 2v-41m13.5 8v-33.6" class="ls-30" data-name="CF125" transform="translate(-418 -185)"/>
+        <path id="_C_126" d="M1655.8 534.7v-20.1" class="ls-29" data-name="CF126" transform="translate(-418 -185)"/>
+        <path id="_C_127" d="M1669.2 505.3V478" class="ls-30" data-name="CF127" transform="translate(-418 -185)"/>
+        <path id="_C_128" d="M1682.7 499.2v-38.1" class="ls-29" data-name="CF128" transform="translate(-418 -185)"/>
+        <path id="_C_129" d="M1696.2 497.7V469m13.4 19.9v-44m13.5 31v-42.3" class="ls-30" data-name="CF129" transform="translate(-418 -185)"/>
+        <path id="_C_130" d="M1736.5 490V385" class="ls-29" data-name="CF130" transform="translate(-418 -185)"/>
+        <path id="_C_131" d="M1750 530.6v-66.7" class="ls-30" data-name="CF131" transform="translate(-418 -185)"/>
+        <path id="_C_132" d="M1763.4 491.9v-44" class="ls-29" data-name="CF132" transform="translate(-418 -185)"/>
+        <path id="_C_133" d="M1777 507.3v-34.6" class="ls-30" data-name="CF133" transform="translate(-418 -185)"/>
+      </g>
+    </g>
+  </g>
+  <g id="_Levels_2" data-name="Levels 2">
+    <g id="_First_Resistance_2" data-name="First Resistance 2">
+      <rect id="_R_4_c_16-2" width="70" height="29" x="1451" y="292" class="ls-31" data-name="R4c16" rx="8" ry="8"/>
+      <text id="__314.63" x="1457.7" y="312.3" class="ls-22" data-name="314.6">
+        314.63
+      </text>
+      <path id="_Shape_1682_c_22-2" d="M1869 490v2H457" class="ls-32" data-name="Shape 1682c22" transform="translate(-418 -186)"/>
+    </g>
+    <g id="_Second_Resistance_2" data-name="Second Resistance 2">
+      <rect id="_R_4_c_16-3" width="70" height="29" x="1451" y="364" class="ls-31" data-name="R4c16" rx="8" ry="8"/>
+      <text id="__299.50" x="1457.7" y="384.3" class="ls-22" data-name="299.5">
+        299.50
+      </text>
+      <path id="_Shape_1682_c_22-3" d="M1869 562v2H457" class="ls-32" data-name="Shape 1682c22" transform="translate(-418 -186)"/>
+    </g>
+    <g id="_Second_Support_2" data-name="Second Support 2">
+      <rect id="_R_4_c_16-4" width="70" height="29" x="1451" y="456" class="ls-11" data-name="R4c16" rx="8" ry="8"/>
+      <text id="__280.60" x="1457.7" y="476.3" class="ls-22" data-name="280.6">
+        280.60
+      </text>
+      <path id="_Shape_1682_c_22-4" d="M1869 654v2H457" class="ls-33" data-name="Shape 1682c22" transform="translate(-418 -186)"/>
+    </g>
+    <g id="_First_Support_2" data-name="First Support 2">
+      <rect id="_R_4_c_16-5" width="70" height="29" x="1451" y="444" class="ls-11" data-name="R4c16" rx="8" ry="8"/>
+      <text id="__283.70" x="1457.7" y="464.3" class="ls-22" data-name="283.7">
+        283.70
+      </text>
+      <path id="_Shape_1682_c_22-5" d="M1869 642v2H457" class="ls-33" data-name="Shape 1682c22" transform="translate(-418 -186)"/>
+    </g>
+    <rect id="_RR2361" width="1344" height="6" x="39" y="467" class="ls-34" data-name="Rounded R2361" rx="3" ry="3"/>
+    <rect id="_RR2361_c" width="1344" height="6" x="39" y="455" class="ls-34" data-name="Rounded R2361 copy" rx="3" ry="3"/>
+    <rect id="_RR2361_c_2" width="1344" height="6" x="39" y="375" class="ls-35" data-name="Rounded R2361c2" rx="3" ry="3"/>
+    <rect id="_RR2361_c_3" width="1344" height="6" x="39" y="303" class="ls-35" data-name="Rounded R2361c3" rx="3" ry="3"/>
+  </g>
+  <g id="_Months_2" class="ls-17" data-name="Months 2">
+    <text id="_Jul" x="57" y="1046.4" class="ls-12">
+      Jul
+    </text>
+    <text id="_Aug" x="192" y="1046.4" class="ls-12">
+      Aug
+    </text>
+    <text id="_Sep" x="334" y="1046.4" class="ls-12">
+      Sep
+    </text>
+    <text id="_Oct" x="464" y="1046.4" class="ls-12">
+      Oct
+    </text>
+    <text id="_Nov" x="614" y="1046.4" class="ls-12">
+      Nov
+    </text>
+    <text id="_Dec" x="741" y="1046.4" class="ls-12">
+      Dec
+    </text>
+    <text id="__2020" x="877" y="1046.4" class="ls-12" data-name="2020">
+      2020
+    </text>
+    <text id="_Feb" x="1016" y="1046.4" class="ls-12">
+      Feb
+    </text>
+    <text id="_Mar" x="1139" y="1046.4" class="ls-12">
+      Mar
+    </text>
+    <text id="_Apr" x="1256" y="1046.4" class="ls-12">
+      Apr
+    </text>
+    <text id="_May" x="1364" y="1046.4" class="ls-12">
+      May
+    </text>
+  </g>
+</svg>
