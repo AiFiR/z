@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1266" height="869">
+  <rect opacity=".0088" width="1266" height="869"/>
+  <g style="opacity:0.52;fill:none;stroke:rgba(230,240,255,.25);stroke-width:.75px;fill-rule:evenodd;shape-rendering:geometricPrecision">
+    <path d="M128 196L2.2 125.2 182 84z"/>
+    <path d="M512 140L386.2 69.2 566 28z"/>
+    <path d="M1068.53 195l-145.521-82.184L1131 65z"/>
+    <path d="M1121.53 255l-145.521-82.184L1184 125z"/>
+    <path d="M875.535 869L716 797l227-38z"/>
+    <path d="M228.535 824L92 749l192-42z"/>
+    <path d="M210.535 861L74 786l192-42z"/>
+  </g>
+</svg>
