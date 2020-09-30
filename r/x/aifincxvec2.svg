@@ -253,7 +253,7 @@
       <feComposite result="composite"/>
       <feComposite result="composite-2"/>
       <feComposite result="composite-3"/>
-      <feFlood result="flood" flood-color="#02ccad" flood-opacity=".09"/>
+      <feFlood result="flood" flood-color="#02ccad" flood-opacity="0.09"/>
       <feComposite result="composite-4" operator="in" in2="composite-3"/>
       <feBlend result="blend" in2="SourceGraphic"/>
       <feBlend result="blend-2" in="SourceGraphic"/>
@@ -263,7 +263,7 @@
     </style>
   </defs>
   <rect id="bg-icon" x="52.5" y="52.4" width="5015" height="4753.2" rx="392.4" ry="392.4" fill="transparent"/>
-  <g id="logo-back" filter="url(#filteru)" stroke="transparent" fill-rule="evenodd" fill="rgba(115,120,123,.07)" stroke-width="37" stroke-linejoin="round">
+  <g id="logo-back" stroke="transparent" fill-rule="evenodd" fill="rgba(115,120,123,0.07)" stroke-width="37" stroke-linejoin="round">
     <path d="M1165 2088.84l-730 1303-184-277 914-1621 725 1329h-308z"/>
     <path d="M1890 2822.84l-725-1328h302l892 1604H908l159-276h823z"/>
     <path d="M908 3098.84h1451l-149 293H435l730-1303 161 283z"/>
