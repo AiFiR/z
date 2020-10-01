@@ -1432,59 +1432,6 @@ border-bottom:1.43px solid #51dea1;
 box-shadow:0 1.5px 0 -1px transparent
 }
 
-#sign-nav-tabs > li.active > a,#sign-nav-tabs > li.active > a:focus {
- /*----------active_start,select:_no-hover----------*/
-background-color:rgba(230,240,255,0.06);
-color:#e6f0ff;
-border-color:rgba(230,240,255,0.5)
-}
-
-#sign-nav-tabs > li.active > a:hover {
-  /*-------------------active_hover------------------*/
-color:rgba(230,240,255,0.95)!important;
-background-color:rgba(230,240,255,0.06)!important;
-cursor:default;
-border-color:rgba(230,240,255,0.5)
-}
-
-#sign-nav-tabs > li > a:hover {
-  /*-----------------inactive_hover-----------------*/
-background-color:rgba(230,240,255,0.14)!important;
-color:#51dea1;
-border-color:transparent
-}
-
-#sign-nav-tabs > li a {
-  /*----------default_style_plus_inactive-----------*/
-background-color:transparent;
-color:rgba(230,240,255,0.9);
-transition:all .34s;
-text-align:center;
-border-radius:10px 10px 0 0;
-border-radius:4.5px 4.5px 0 0;
-padding:0 0 5px;
-border-color:transparent!important;
-border-bottom:none!important
-}
-
-#sign-nav-tabs > li {
-width:50%
-}
-
-#sign-nav-tabs {
-border-color:rgba(230,240,255,0.5);
-padding-bottom:1px
-}
-
-#sign-nav-tabs > li a h3 {
-margin:0;
-padding:0;
-transform:scaleY(0.9);
-font-weight:300;
-font-size:18px;
-padding-top:2px
-}
-
 #sign-h-rule {
 border:1.4px solid #51dea1;
 border-radius:1.4px;
@@ -1598,9 +1545,62 @@ padding-right:calc(35% - 95px);
 padding-bottom:0
 }
 
-#sign-nav-tabs {
+#sign-nav-tab {
 margin-left:-8px;
 margin-right:-8px
+}
+
+#sign-nav-tabs > li.active > a,#sign-nav-tabs > li.active > a:focus {
+ /*----------active_start,select:_no-hover----------*/
+background-color:rgba(230,240,255,0.06);
+color:#e6f0ff;
+border-color:rgba(230,240,255,0.5)
+}
+
+#sign-nav-tabs > li.active > a:hover {
+  /*-------------------active_hover------------------*/
+color:rgba(230,240,255,0.95)!important;
+background-color:rgba(230,240,255,0.06)!important;
+cursor:default;
+border-color:rgba(230,240,255,0.5)
+}
+
+#sign-nav-tabs > li > a:hover {
+  /*-----------------inactive_hover-----------------*/
+background-color:rgba(230,240,255,0.14)!important;
+color:#51dea1;
+border-color:transparent
+}
+
+#sign-nav-tabs > li a {
+  /*----------default_style_plus_inactive-----------*/
+background-color:transparent;
+color:rgba(230,240,255,0.9);
+transition:all .34s;
+text-align:center;
+border-radius:10px 10px 0 0;
+border-radius:4.5px 4.5px 0 0;
+padding:0 0 5px;
+border-color:transparent!important;
+border-bottom:none!important
+}
+
+#sign-nav-tabs > li {
+width:50%
+}
+
+#sign-nav-tabs {
+border-color:rgba(230,240,255,0.5);
+padding-bottom:1px
+}
+
+#sign-nav-tabs > li a h3 {
+margin:0;
+padding:0;
+transform:scaleY(0.9);
+font-weight:300;
+font-size:18px;
+padding-top:2px
 }
 
 .scroll-hide {
