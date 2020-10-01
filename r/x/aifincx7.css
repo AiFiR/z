@@ -496,7 +496,10 @@ transform:scaleX(0.9)
 float:left;
 color:#e6f0ff;
 margin-top:-14px;
-margin-left:20px
+margin-left:20px;
+line-height:22px;
+font-size:15.73px;
+letter-spacing:-.12px
 }
 
 #cred {
@@ -1623,4 +1626,14 @@ background:radial-gradient(circle,#8c9eab 0%,#3a434d 100%);
 background-repeat:no-repeat;
 background-attachment:fixed;
 overflow:scroll
+}
+
+#lo-supp object,#lo-sign object,#lo-term object,#lo-priv object,#lo-disc object {
+height:112px;
+margin:-39px -39px 0 0
+}
+
+#lo-supp object embed,#lo-sign object embed,#lo-term object embed,#lo-priv object embed,#lo-disc object embed {
+height:112px;
+margin:-39px -39px 0 0
 }
