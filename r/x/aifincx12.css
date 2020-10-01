@@ -469,20 +469,6 @@ height:23px;
 border:.01px solid transparent
 }
 
-#lang-container {
-position:absolute;
-width:428px;
-margin-left:auto;
-margin-right:auto;
-left:0;
-right:0;
-top:95%;
-margin-top:3px;
-min-width:73%;
-max-width:95%;
-padding:0
-}
-
 #sign-up {
 color:rgba(230,240,255,0.9);
 text-decoration:underline;
@@ -839,7 +825,7 @@ fill:#51dea1!important
 #lang-sel2 svg path {
 transition:all .17s
 }
-#lang-container2 { transform:scaleY(0.87) !important;
+#lang-container { transform:scaleY(0.87) !important;
 position:absolute;
 width:428px;
 margin-left:auto;
