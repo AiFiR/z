@@ -1554,6 +1554,22 @@ transform-origin:50% 100%;
 opacity:.03
 }
 
+#footer-menu > span button:hover {
+border-color:#e6f0ff;
+color:#51dea1!important
+}
+
+#footer-menu > button {
+transition:all .17s;
+-webkit-transition:all .17s
+}
+
+#footer-menu > button:hover {
+opacity:1!important;
+color:#51dea1!important;
+text-shadow:0 1px 0 rgba(230,240,255,0.9)
+}
+
 .scroll-hide {
 scrollbar-width:none;
 -ms-overflow-style:none
