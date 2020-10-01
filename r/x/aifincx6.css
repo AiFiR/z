@@ -220,31 +220,31 @@ transition:all .17s
 }
 
 #footer {
-margin-top:-58px;
-height:60px
+height:42px;
+margin-top:0;
+box-shadow:0 113px 0 70px #292b33
 }
 
 #footer-spacer {
 position:relative;
-height:34px;
+height:42px;
 margin-left:auto;
 max-width:1720px;
 margin-right:auto;
-top:calc(100vh - 34px);
-position:-webkit-sticky;
-position:sticky;
+bottom:0;
 overflow:hidden
 }
 
 #footer-main {
 position:absolute;
-bottom:0;
+top:0;
 width:100%;
+display:hidden;
 transition:all .431415s;
 -webkit-transition:all .431415s;
-transform:scaleY(0.025);
+transform:scaleY(0.03);
 transform-origin:50% 100%;
-opacity:.025
+opacity:.03
 }
 
 #footer-menu {
