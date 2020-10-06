@@ -1625,7 +1625,7 @@ color:rgba(50,60,75,0.9);
 max-width:314px!important
 }
 .tooltip.top .tooltip-arrow {
-border-top-color:rgba(230,240,255,1)
+border-top-color:rgba(230,240,255,1)!important
 }
 
 #county-select:invalid {
