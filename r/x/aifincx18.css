@@ -660,6 +660,12 @@ color:#51dea1!important;
 background:rgba(230,240,255,0.014)
 }
 
+#support-options > center a button:hover {
+border-color:#e6f0ff;
+color:#51dea1!important;
+background:rgba(230,240,255,0.014)!important;
+}
+
 #support-send:hover {
 border-color:rgba(230,240,255)!important;
 color:#51dea1!important;
