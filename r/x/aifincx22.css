@@ -2023,7 +2023,7 @@ height:0;
 margin:17.5px 116px 4.5px
 }
 
-#more-h-rule-blk {
+#more-h-rule-blk, #sign-h-rule-blk {
 border:.4px solid rgb(50,60,75)!important;
 border-radius:2px;
 box-sizing:border-box;
